@@ -60,7 +60,7 @@ Colocamos a continuación el primer tour con el primer país para que puedas gui
 Deberás crear tres países (MEX, GUA, COL). Cada país tendrá una propiedad "paquetes" que incluirá 3. cada uno deberá incluir 3 `fechasDisponibles`.
 
 ```javascript
-const tours = [
+var tours = [
     {
         MEX: {
             paquetes: [
@@ -119,10 +119,10 @@ const tours = [
 
 - Importa `tours.js` al inicio con `require`
 
-- Crea una variable `const` con un objeto que incluya los datos de un usuario con las siguientes propiedades:
+- Crea una variable `var` con un objeto que incluya los datos de un usuario con las siguientes propiedades:
 
 ```javascript
-const usuario = {
+var usuario = {
   nick: "mikenieva",
   nombre: "Miguel",
   apellido: "Nieva"
@@ -142,7 +142,7 @@ const usuario = {
     - Un arreglo de objetos con los tours de ese país en específico.
 
 ```javascript
-const buscarToursPorPais = (toursArray, paisString) => {
+var buscarToursPorPais = (toursArray, paisString) => {
   // Dado los dos datos recibidos, busques en toursArray y retornes un arreglo de objetos con los tours de ese país en específico.
 };
 
