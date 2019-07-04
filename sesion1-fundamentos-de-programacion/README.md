@@ -4,6 +4,8 @@ La gran bienvenida a Javascript. Uno de los lenguajes de programación más usad
 
 Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condicionales, ciclos y funciones) para comenzar a crear aplicaciones.
 
+***
+
 ## Tabla de Contenido
   
   - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
@@ -27,7 +29,7 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
   - **[Prework](#prework)**
   - **[Postwork](#postwork)**
   
-
+***
 
 ## 1. ¿Por qué Javascript? ¿Qué son las variables?
 
