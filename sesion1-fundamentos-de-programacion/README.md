@@ -18,7 +18,7 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
     - Ejercicio 3
     - Reto 3
     
-  - [Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)
+  - **[Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
     - Ejercicio 4
     - Reto 4
     
