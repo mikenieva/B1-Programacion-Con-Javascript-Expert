@@ -9,25 +9,24 @@ Es momento de integrar lógica a tus maquetaciones.
 
 ## Tabla de Contenido
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
-    - Ejercicio 1
-    - Reto 1
+  - **[¿Qué es ECMAScript?](#haz-un-"fork"-del-repositorio)**
     
-  - **[Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)**
-    - Ejercicio 2
-    - Reto 2
+  - **[let/const](#)**
     
-  - **[Ciclos](#alcance-2-crea-una-variable-de-usuario-en-indexjs)**
+  - **[Template Strings](#)**
     - Ejercicio 3
     - Reto 3
     
-  - **[Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
+  - **[Arrow Functions](#)**
     - Ejercicio 4
-    - Reto 4
     
-  - **[BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)**
+  - **[Default Parameters](#)**
   
-  - **[Prework](#prework)**
+  - **[REST Parameter](#)**
+  
+  - **[Destructuring](#)**
+  
+  - **[Prework para la siguiente sesión](#prework)**
   - **[Postwork](#postwork)**
   
 ***
