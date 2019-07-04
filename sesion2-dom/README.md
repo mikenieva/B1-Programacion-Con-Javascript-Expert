@@ -23,7 +23,7 @@ Es momento de vincular lógica a tus maquetaciones.
     - Ejercicio 3
     - Reto 3
     
-  - **[BEDU Travels: Sesión 3](#)**
+  - **[BEDU Travels: Sesión 2](#)**
   
   - **[Prework](#prework)**
   - **[Postwork](#postwork)**
