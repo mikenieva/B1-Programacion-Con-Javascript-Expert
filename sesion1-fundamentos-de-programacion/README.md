@@ -6,7 +6,7 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
 
 ## Tabla de Contenido
   
-  - [¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)
+  - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
     - Reto 1
     
   - [Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)
