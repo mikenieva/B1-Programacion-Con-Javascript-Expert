@@ -1,10 +1,12 @@
 # Sesión 1: Fundamentos de Programación
 
-## Objetivos
+La gran bienvenida a Javascript. Uno de los lenguajes de programación más usados en el mundo.
+
+Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condicionales, ciclos y funciones) para comenzar a crear aplicaciones.
 
 ## Tabla de Contenido
   
-  - [Objetivos](#objetivos)
+  - [Prework](#prework)
   - [1. ¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)
     - Reto 1
   - [2. Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)
@@ -14,6 +16,7 @@
   - [4. Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)
     - Reto 4
   - [5. BEDU Travels - Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)
+  - [Postwork](#postwork)
 
 
 ## 1. ¿Por qué Javascript? ¿Qué son las variables?
