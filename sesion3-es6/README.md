@@ -26,7 +26,7 @@ Es momento de integrar lógica a tus maquetaciones.
   
   - **[Destructuring](#)**
   
-  - **[Prework para la siguiente sesión](#prework)**
+  - **[PREWORK - Siguiente sesión](#prework)**
   - **[Postwork](#postwork)**
   
 ***
