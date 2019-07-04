@@ -1,29 +1,27 @@
 # Sesión 4: NodeJS y Arquitectura MVC | Módulo JS
 
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
+NodeJS es un ambiente de desarrollo en Javascript que nos permitió poder expandir este lenguaje en otras áreas fuera de la web, incluyendo programas de escritorio, aplicaciones móviles, desarrollo Backend y Frontend.
 
-Es momento de integrar lógica a tus maquetaciones.
+Todos los profesionales experimentamos y/o trabajamos con Node.
 
 
 ***
 
 ## Tabla de Contenido
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#)**
-    - Ejercicio 1
-    - Reto 1
+  - **[Ecosistema](#)**
     
-  - **[Condicionales](#)**
-    - Ejercicio 2
-    - Reto 2
+  - **[¿Qué es Node?](#)**
     
-  - **[Ciclos](#)**
-    - Ejercicio 3
-    - Reto 3
+  - **[Instalación](#)**
     
-  - **[Funciones](#)**
-    - Ejercicio 4
-    - Reto 4
+  - **[NPM](#)**
+  
+  - **[Ambiente de Desarrollo](#)**  
+  
+  - **[Webpack](#)**  
+
+  - **[Arquitectura MVC](#)**  
     
   - **[BEDU Travels: Sesión 4](#)**
   
