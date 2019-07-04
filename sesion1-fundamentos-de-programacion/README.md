@@ -26,7 +26,8 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
     
   - **[BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)**
   
-  - **[Prework para siguiente sesión](#prework)**
+  - **[PREWORK - Siguiente sesión](#prework)**
+  
   - **[Postwork](#postwork)**
   
 ***
