@@ -1,4 +1,6 @@
-## Sesión 1: Fundamentos de Programación
+# Sesión 1: Fundamentos de Programación
+
+## Objetivos
 
 ## Tabla de Contenido
   
@@ -12,3 +14,11 @@
   - [4. Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)
     - Reto 4
   - [5. BEDU Travels - Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)
+
+
+## 1. ¿Por qué Javascript? ¿Qué son las variables?
+
+La gran bienvenida a Javascript.
+
+Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
+
