@@ -25,7 +25,7 @@ Es momento de vincular lógica a tus maquetaciones.
     
   - **[BEDU Travels: Sesión 2](#)**
   
-  - **[Prework](#prework)**
+  - **[Prework para la siguiente sesión](#prework)**
   - **[Postwork](#postwork)**
   
 ***
