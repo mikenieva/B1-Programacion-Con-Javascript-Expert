@@ -1,9 +1,8 @@
 # Sesión 6: AJAX y Programación Asíncrona | Módulo JS
 
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
+Conforme progresa la velocidad y la optimización de aplicaciones, contamos con la necesidad de ejecutar procesos simultáneamente, en mayores cantidades y más rápido.
 
-Es momento de integrar lógica a tus maquetaciones.
-
+Javascript cuenta con diferentes métodos para trabajar asincronía 
 
 ***
 
