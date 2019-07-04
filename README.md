@@ -14,8 +14,6 @@ Tu instructor te dará guía sobre los siguientes pasos.
 
 ***
 
-## Índice
-
 - **[Sesión 1: Fundamentos de Programación](https://github.com/mikenieva/programacion-js-student/tree/master/sesion1-fundamentos-de-programacion)**
 
 - **[Sesión 2: DOM](https://github.com/mikenieva/programacion-js-student/tree/master/sesion2-dom)**
