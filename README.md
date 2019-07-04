@@ -12,6 +12,7 @@ A partir de este momento, cada vez que llegues a tu sesión, abrirás este repos
 
 Tu instructor te dará guía sobre los siguientes pasos.
 
+***
 
 ## Índice
 
