@@ -9,26 +9,27 @@ Es momento de integrar lógica a tus maquetaciones.
 
 ## Tabla de Contenido
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
+  - **[¿Por qué Javascript? ¿Qué son las variables?](#)**
     - Ejercicio 1
     - Reto 1
     
-  - **[Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)**
+  - **[Condicionales](#)**
     - Ejercicio 2
     - Reto 2
     
-  - **[Ciclos](#alcance-2-crea-una-variable-de-usuario-en-indexjs)**
+  - **[Ciclos](#)**
     - Ejercicio 3
     - Reto 3
     
-  - **[Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
+  - **[Funciones](#)**
     - Ejercicio 4
     - Reto 4
     
-  - **[BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)**
+  - **[BEDU Travels: Sesión 4](#)**
   
-  - **[Prework](#prework)**
-  - **[Postwork](#postwork)**
+  - **[PREWORK - Siguiente sesión](#prework)**
+  
+  - **[POSTWORK](#postwork)**
   
 ***
 
