@@ -14,7 +14,7 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
     - Reto 3
   - [Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)
     - Reto 4
-  - [BEDU Travels - Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)
+  - [RETO FINAL - BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)
   - [Prework](#prework)
   - [Postwork](#postwork)
   
