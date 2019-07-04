@@ -1,3 +1,5 @@
+![BEDU](https://i.imgur.com/K4YuvOd.png)
+
 # BEDU: Módulo Javascript
 
 ## Objetivos
