@@ -1,4 +1,4 @@
-# Sesión 1: Fundamentos de Programación | Módulo Javascript
+# Sesión 1: Fundamentos de Programación | Módulo JS
 
 La gran bienvenida a Javascript. Uno de los lenguajes de programación más usados en el mundo.
 
