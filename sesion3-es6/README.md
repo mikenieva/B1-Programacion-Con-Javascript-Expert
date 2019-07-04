@@ -14,18 +14,21 @@ Es momento de integrar lógica a tus maquetaciones.
   - **[let/const](#)**
     
   - **[Template Strings](#)**
-    - Ejercicio 3
-    - Reto 3
+    - Ejercicio 1
     
   - **[Arrow Functions](#)**
-    - Ejercicio 4
+    - Ejercicio 2
     
   - **[Default Parameters](#)**
+    - Ejercicio 3
   
   - **[REST Parameter](#)**
-  
+    - Ejercicio 4
+    
   - **[Destructuring](#)**
-  
+    - Ejercicio 5
+    - Reto 1
+    
   - **[PREWORK - Siguiente sesión](#prework)**
   
   - **[POSTWORK](#postwork)**
