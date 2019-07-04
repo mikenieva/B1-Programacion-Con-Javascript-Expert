@@ -28,7 +28,9 @@ Es momento de integrar lógica a tus maquetaciones.
   - **[Destructuring](#)**
     - Ejercicio 5
     - Reto 1
-    
+
+  - **[BEDU Travels: Sesión 3](#)**
+
   - **[PREWORK - Siguiente sesión](#prework)**
   
   - **[POSTWORK](#postwork)**
