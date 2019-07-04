@@ -1,1 +1,1 @@
-## Sesión 5: JSON y APIs
+## Sesión 6: AJAX y programación asíncrona

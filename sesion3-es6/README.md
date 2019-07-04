@@ -1,1 +1,1 @@
-## Sesión 3: ECMAScript 6
+# Sesión 3: ES6

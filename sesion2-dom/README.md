@@ -1,1 +1,1 @@
-## Sesión 2: DOM
+# Sesión 2: DOM
