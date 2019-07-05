@@ -97,12 +97,15 @@ Ahora si, comencemos.
 Javascript (JS) es:
 
 1. Un lenguaje de programación que permite ejecutarse en cada navegador (Google Chrome, Safari, Firefox, Opera, etc.).
-2. Multiplataforma. Puede ser utilizado en muchas plataformas y sistemas
+
+2. Multiplataforma. Puede ser utilizado en muchas plataformas y sistemas.
+
 3. Multiparadigma. Se puede manejar orientación a objetos, funcional, reactivo. Más adelante explicaremos como se utilizan.
 
 4. **Diferente a JAVA. Son diferentes lenguajes. Javascript no es JAVA**
 
-5. Javascript desde el navegador, trabaja con HTML y CSS para el manejo de la aplicación hacia el usuario.
+5. Un jugador que trabaja, desde el navegador, a lado de HTML y CSS para el manejo de la experiencia hacia el usuario.
+
    1. HTML maneja el contenido, la estructura, el esqueleto, el "markup".
    2. CSS maneja la presentación, el diseño, la visualización de la aplicación.
    3. JS maneja la interactividad, efectos, dinamismo y más adelante, la gestión de datos y el flujo de los mismos a otras áreas de la aplicación.
