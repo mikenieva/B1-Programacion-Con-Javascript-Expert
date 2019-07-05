@@ -294,7 +294,7 @@ var resultado = 5 % 2;
 
 ## Ciclos
 
-### Ejercicio 3-
+### Ejercicio 4
 
 ***
 
