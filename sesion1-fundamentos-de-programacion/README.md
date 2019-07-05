@@ -96,15 +96,15 @@ Ahora si, comencemos.
 
 Javascript (JS) es:
 
-1. Un lenguaje de programación que permite ejecutarse en cada navegador (Google Chrome, Safari, Firefox, Opera, etc.).
+1. Un lenguaje de programación que permite ejecutarse principalmente en cada navegador (Google Chrome, Safari, Firefox, Opera, etc.).
 
-2. Multiplataforma. Puede ser utilizado en muchas plataformas y sistemas.
+2. Multiplataforma. Puede ser utilizado en muchas plataformas y sistemas. Podemos usarlo fuera del navegador a través de ciertos programas adicionales.
 
-3. Multiparadigma. Se puede manejar orientación a objetos, funcional, reactivo. Más adelante explicaremos como se utilizan.
+3. Multiparadigma. Se puede manejar orientación a objetos, funcional, reactivo. Más adelante explicaremos como se utilizan y para qué nos sirven.
 
 4. **Diferente a JAVA. Son diferentes lenguajes. Javascript no es JAVA**
 
-5. Un jugador que trabaja, desde el navegador, a lado de HTML y CSS para el manejo de la experiencia hacia el usuario.
+5. Un jugador que hace equipo, en el navegador, a lado de HTML y CSS, para que el usuario pueda usar la aplicación.
 
    1. HTML maneja el contenido, la estructura, el esqueleto, el "markup".
    2. CSS maneja la presentación, el diseño, la visualización de la aplicación.
@@ -298,10 +298,18 @@ if(10 > 5) {
 - `if`. Primer elemento que indica que realizarás un condicional.
 - `()`. Dentro de los paréntesis colocarás dos elementos que compararás y verificarás su condición. Si cumplen con la condición, se le considerará que es `true` (verdadero) y ejecutará lo que esté en las llaves. En caso contrario, se denominará `false` (falso) e ignorará todo el código que se encuentre dentro de las llaves.  
 
-Para realizar las operaciones de comparación existen diferentes operadores:
+Para realizar las operaciones de comparación utilizamos sus operadores:
 
-
-
+| Operador | Descripción                                             | Ejemplos devolviendo true |
+|----------|---------------------------------------------------------|---------------------------|
+| ==       | Igualdad. Devuelve `true` si ambos operando son iguales | 3 == 3 "mike" == "mike"   |
+|          |                                                         |                           |
+|          |                                                         |                           |
+|          |                                                         |                           |
+|          |                                                         |                           |
+|          |                                                         |                           |
+|          |                                                         |                           |
+|          |                                                         |                           |
 - `{}`. En las llaves, colocaremos nuestras sentencias de ejecución. 
 
 
@@ -327,10 +335,19 @@ if (10 == 5) {
 
 ````javascript
  
-var noonHour = 12
-var nightHour = 19
+var now = 13
 
-if(noonHour > 12)
+if(now < 12){
+  console.log("Buenos días")
+}
+
+if(now >= 12 && now <= 19 ){
+  console.log("Buenas tardes")
+}
+
+if(now > 19){
+  console.log("Buenas noches")
+}
 
 ````
 
