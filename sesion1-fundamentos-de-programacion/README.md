@@ -226,6 +226,8 @@ var frutas = {
 
 > Al inicio, puedes colocar tus variables en español para que practiques, pero en buena práctica usualmente colocamos las variables en idioma inglés. **Esto hace que el idioma no sea una barrera** en caso de que otros desarrolladores trabajen tu proyecto, incluyendo los caracteres especiales (como los acentos o las ñ).
 
+***
+
 ### Reto 1: Crea tus variables
 
 Es tu turno. 
@@ -235,9 +237,15 @@ Es tu turno.
 - Escribe una variable para cada tipo de dato enfocado en el tema que quieras.
 
 
+***
+
 ## Condicionales
 
+
+
 ### Ejercicio 2
+
+***
 
 ### Reto 2: Piedra, papel o tijeras
 
@@ -246,11 +254,15 @@ Es tu turno.
 
 ### Ejercicio 3
 
+***
+
 ### Reto 3: Piedra, papel o tijeras
 
 
 ## Funciones
 
 ### Ejercicio 4
+
+***
 
 ### Reto 4: Par o impar con funciones
