@@ -302,7 +302,7 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 
 | Operador | Descripción                                             | Ejemplos devolviendo true |
 |----------|---------------------------------------------------------|---------------------------|
-| ==       | Igualdad. Devuelve `true` si ambos operando son iguales | 3 == 3 \\ "mike" == "mike"   |
+| ==       | Igualdad. Devuelve `true` si ambos operando son iguales | 3 == 3 <br>  "mike" == "mike"   |
 |          |                                                         |                           |
 |          |                                                         |                           |
 |          |                                                         |                           |
