@@ -240,9 +240,7 @@ Es tu turno.
 
 - Crea un archivo r1.js
  
-- Escribe una variable para cada tipo de dato enfocado en el tema que quieras.
-
-- Abre una ventana en tu navegador y sitúate
+- Escribe una variable para cada tipo de dato, al tema que quieras.
 
 ***
 
