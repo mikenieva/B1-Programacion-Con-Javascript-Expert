@@ -193,28 +193,28 @@ Para los valores de las variables, podemos utilizar diferentes formatos para exp
 ```javascript
 
 // STRING - Texto plano
-var fruta = "manzana"
-var fraseDesayuno = "Hoy comeré 3 manzanas"
+var fruta = "manzana";
+var fraseDesayuno = "Hoy comeré 3 manzanas";
 
 // NUMBER - Número
-var edad = 29
-var diasExpiracionManzana = 7
+var edad = 29;
+var diasExpiracionManzana = 7;
 
 // BOOLEAN (Booleano) - Valor vinculado al "verdadero" o "falso"
-var esComestible = true
-var esRoja = false
+var esComestible = true;
+var esRoja = false;
 
 // UNDEFINED - Valor que tiene una variable a la cual no se le ha asignado ningún valor (aún)
 var fechaDesayuno
 // ó...
-var fechaDesayuno = undefined
+var fechaDesayuno = undefined;
 
 // NULL - La variable no tiene ningún valor. Puede referirse a un "no aplica".
-var cascaraManzana = null
+var cascaraManzana = null;
 
 // ARREGLO - Conjunto de datos. Cada lugar en el arreglo puede ser otro tipo de dato.
-var desayuno = ["Leche", "Manzana"]
-var invitados = ["Mike", "Andrés", "Salvador"]
+var desayuno = ["Leche", "Manzana"];
+var invitados = ["Mike", "Andrés", "Salvador"];
 
 // OBJETO - Conjunto de datos, el cual contiene se estructuran en un formato llave:valor 
 
@@ -253,33 +253,44 @@ Con respecto al tipo de datos `Number` puedes ejecutar operaciones para cambiar 
 | +        | Adición                           | var resultado = 4 + 3 |                                                   |
 | -        | Substracción                      | var resultado = 4 - 3 |                                                   |
 | *        | Multiplicación                    | var resultado = 4 * 3 |                                                   |
-| /        | División                          | var resultado = 4 /3  |                                                   |
+| /        | División                          | var resultado = 4 / 3  |                                                   |
 | %        | "Modulus"  Residuo de la división | var resultado = 5 % 2 | "resultado" devolvería 1                          |
 | ++       | Incremento                        | var resultado = 4++   | "resultado" devolvería 5, después de su ejecución |
 | --       | Decremento                        | var resultado = 4--   | "resultado" devolvería 3, después de su ejecución |
 
 
-### Ejercicio 2
+### Ejemplo 2
 
-Coloquemos ahora cada uno de ellos en nues
+- Abramos un archivo nuevo `ex2.js`
 
+- Hagamos un ejemplo de cada operador.
 
-### Reto 2
+```javascript
 
+var adicion = 4 + 3;
+var resta = 4 - 3;
+var multiplicacion = 4 * 3;
+var division = 4 / 3;
+var resultado = 5 % 2;
+
+```
+
+> Vale la pena aclarar sobre la separación de cada línea en Javascript con punto y coma `;`. Javascript no requiere estrictamente usar puntos y comas al final de cada línea, sin embargo vale la pena colocarlos. Ahora, en algún punto, cuando alcances un mejor nivel, podrías considerarlos opcional mientras cumplas con ciertos criterios. [Te compartimos un artículo que habla sobre este tema.](https://flaviocopes.com/javascript-automatic-semicolon-insertion/). 
 
 ## Condicionales
 
+- Controlan el comportamiento y flujo de un programa.
+
+- `if` es el tipo de condicional más común y corre sólo si la condición encerrada entre parentesis es verdadera (“truthy”)
 
 
-
-### Ejercicio 2
+### Ejercicio 3
 
 ***
 
 ### Reto 2: Piedra, papel o tijeras
 
-- Crea un piedra, papel o tijeras utilizando  
-
+- Crea un piedra, papel o tijeras utilizando condicionales.  
 
 ## Ciclos
 
