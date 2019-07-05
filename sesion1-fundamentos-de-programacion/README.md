@@ -113,7 +113,55 @@ Javascript (JS) es:
 
 ## ¿Qué son las variables?
 
-Las variables se utilizan para almacenar información.
+Las variables se utilizan para almacenar información dentro de tu programa.
+
+En el modo más general, te ayudan a etiquetar datos y así llamarlos en el momento que tú quieras a lo largo de la aplicación.
+
+Las variables se dividen en 4 partes:
+
+```javascript
+var deporte = "Atletismo"
+```
+
+- Declaración (`var`). Cuando comienzas una variable, debes de utilizar la palabra `var`
+- Nombre (etiqueta). Irá del lado izquierdo. Será cómo llamarás la variable más adelante.
+- Asignación (`=`). A diferencia de la aritmética donde se le conoce como "igual", en Javascript se le conoce como asignación, el cual asignará el valor de lo que el área de su lado derecho genere hacia el lado izquierdo (Nombre).
+- Valor (Tipo de dato). Puede ser un texto, un número, un conjunto de datos (objetos, arreglos).
+
+Al final, lo que te permitirá esto es referenciar valores con etiquetas.
+ 
+***
+
+Ahora bien, nombrar tus variables implica que deberán ser lo más descriptivas posibles. 
+
+Es decir, que si otras personas leyeran tu código, entenderían rápidamente que significa cada dato porque el nombre de su variable lo explica todo. (Fig 1.1)
+
+`Fig. 1.1`
+```javascript
+var saludo = "Hola Mundo"
+var perro = "Firulais"
+var pais = "México"
+var edad = 35 
+```
+Si tú lees el nombre de las variables anteriores, rápidamente comprendes de qué tratan.
+
+Como buena práctica, vale la pena que si generas una variable que implica dos palabras, utilices una técnica llamada "Camel Case", la cual te dice que coloques
+
+
+
+```javascript
+
+```
+Crearemos primero un archivo Javascript.
+
+
+
+Escribiremos todos los tipos de variables relacionados con el tema "alimentos".
+
+
+
+
+### Reto 1: Crea tus variables
 
 
 
