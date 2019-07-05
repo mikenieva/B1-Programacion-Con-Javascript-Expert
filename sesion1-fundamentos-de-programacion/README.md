@@ -110,7 +110,7 @@ Javascript (JS) es:
    2. CSS maneja la presentación, el diseño, la visualización de la aplicación.
    3. JS maneja la interactividad, efectos, dinamismo y más adelante, la gestión de datos y el flujo de los mismos a otras áreas de la aplicación.
 
-![Variables](https://i.imgur.com/wFvsBQv.png)
+![Variables](https://i.imgur.com/VD6w1tB.png)
 
 ***
 
@@ -174,9 +174,9 @@ var impuestosAnuales = 250000
 - La palabra comenzará con minúscula.
 - La segunda palabra empezará con mayúscula. 
 
-***
+Con esto claro, hablemos de los **tipos de datos**.
 
-Con esto claro, hablemos de los **tipos de datos**
+***
 
 ## Tipos de Datos
 
@@ -200,7 +200,7 @@ var diasExpiracionManzana = 7
 
 // BOOLEAN (Booleano) - Valor vinculado al "verdadero" o "falso"
 var esComestible = true
-var esRoja = false 
+var esRoja = false
 
 // UNDEFINED - Valor que tiene una variable a la cual no se le ha asignado ningún valor (aún)
 var fechaDesayuno
@@ -208,7 +208,7 @@ var fechaDesayuno
 var fechaDesayuno = undefined
 
 // NULL - La variable no tiene ningún valor. Puede referirse a un "no aplica".
-var cascaraManzana = null 
+var cascaraManzana = null
 
 // ARREGLO - Conjunto de datos. Cada lugar en el arreglo puede ser otro tipo de dato.
 var desayuno = ["Leche", "Manzana"]
@@ -224,12 +224,33 @@ var frutas = {
 
 ```
 
-> Al inicio, puedes colocar tus variables en español para que practiques, pero en buena práctica usualmente colocamos las variables en idioma inglés. Esto hace que el idioma no sea una barrera en caso de que más desarrolladores trabajen al mismo tiempo y también los caracteres especiales (como los acentos o las ñ) afecten.
-
+> Al inicio, puedes colocar tus variables en español para que practiques, pero en buena práctica usualmente colocamos las variables en idioma inglés. **Esto hace que el idioma no sea una barrera** en caso de que otros desarrolladores trabajen tu proyecto, incluyendo los caracteres especiales (como los acentos o las ñ).
 
 ### Reto 1: Crea tus variables
 
+Es tu turno. 
 
-
+- Crea un archivo sesion1-reto1.js
  
+- Escribe una variable para cada tipo de dato enfocado en el tema que quieras.
 
+
+## Condicionales
+
+### Ejercicio 2
+
+### Reto 2: Piedra, papel o tijeras
+
+
+## Ciclos
+
+### Ejercicio 3
+
+### Reto 3: Piedra, papel o tijeras
+
+
+## Funciones
+
+### Ejercicio 4
+
+### Reto 4: Par o impar con funciones
