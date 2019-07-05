@@ -72,11 +72,11 @@ Observa que:
 
 ## ¿Cómo comenzar y qué hacer?
 
-Para poder utilizar todas las tecnologías mencionadas y crear aplicaciones robustas, deberás formar buenas bases Javascript.
+Para poder utilizar todas las tecnologías mencionadas y crear aplicaciones robustas, deberás formar buenas bases en Javascript.
 
-A pesar de que es un lenguaje el cual podrás aplicar en poco tiempo, es necesario enfatizar que practicar es la clave. 
+A pesar de que es un lenguaje el cual podrás aplicar en poco tiempo, practicar es la clave. 
 
-Te compartimos consejos para mantenerte enfocado y persistente en este mundo de la programación:
+Te compartimos consejos para mantenerte enfocado y persistente:
 
 - Al inicio, probablemente muchos conceptos no tengan mucho sentido o implique mucho trabajo comprenderlos. **Es normal.** Sólo es cuestión de ejercitar lógica con muchos ejercicios y retos, los cuales la gran mayoría te los iremos compartiendo a lo largo del módulo.
 
