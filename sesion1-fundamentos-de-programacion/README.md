@@ -239,7 +239,21 @@ Es tu turno.
 
 ***
 
+## Operadores Básicos
+
+
+| Operador | Descripción                       | Ejemplo                                                                |
+|----------|-----------------------------------|------------------------------------------------------------------------|
+| +        | Adición                           | var resultado = 4 + 3                                                  |
+| -        | Substracción                      | var resultado = 4 - 3                                                  |
+| *        | Multiplicación                    | var resultado = 4 * 3                                                  |
+| /        | División                          | var resultado = 4 /3                                                   |
+| %        | "Modulus"  Residuo de la división | var resultado = 5 % 2 ("resultado" es igual a 1)                       |
+| ++       | Incremento                        | var resultado = 4++ "resultado" es igual a 5, después de su ejecución. |
+| --       | Decremento                        | var resultado = 4-- "resultado" es igual a 3, después de su ejecución. |
+
 ## Condicionales
+
 
 
 
@@ -249,10 +263,12 @@ Es tu turno.
 
 ### Reto 2: Piedra, papel o tijeras
 
+- Crea un piedra, papel o tijeras utilizando  
+
 
 ## Ciclos
 
-### Ejercicio 3
+### Ejercicio 3-
 
 ***
 
