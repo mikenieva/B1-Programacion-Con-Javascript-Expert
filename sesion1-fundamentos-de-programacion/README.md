@@ -38,13 +38,29 @@ La gran bienvenida a Javascript.
 
 Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 
-De acuerdo a la última encuesta de 2019 realizada a la plataforma [Stack Overflow](https://stackoverflow.com/), el cual es el foro más importante para desarrolladores del mundo, se comprobó que Javascript es y seguirá teniendo mucha tracción en los siguientes años. **No es el único que seguirá creciendo**, claro está, pero su impacto progresa anualmente.
+En la última encuesta de 2019, realizada a la plataforma [Stack Overflow](https://stackoverflow.com/), foro más importante de desarrolladores en el mundo, se comprobó que Javascript es y seguirá teniendo mucha tracción en los siguientes años. 
+
+**No es el único que seguirá creciendo**, claro está, pero el impacto de este se ha mantenido y progresa anualmente.
 
 > Te recomendamos leer la investigación completa [sobre el ecosistema tecnológico aquí](https://insights.stackoverflow.com/survey/2019).
 
 ![](https://i.imgur.com/ZZmILsS.png)
 
-Atentos de estas tendencias, muchas empresas confían sus productos digitales a Javascript, parcial o totalmente, en diferentes áreas.
+Atentos de estas tendencias, muchas empresas confían sus productos digitales a Javascript, parcial o totalmente, en diferentes áreas. 
+
+Notemos que es posible, con Javascript, desarrollar también aplicaciones móviles y escritorio.
 
 ![tendencias](https://i.imgur.com/nlzlvO0.png)
+
+Ahora, el conjunto de tecnologías que necesitarás para construir aplicaciones web puede ser este (importante destacar que no es el único pero es de los más robustos):
+
+![](https://i.imgur.com/UgG62hG.png)
+
+Observa que:
+
+- Del lado del cliente tenemos React, un framework de desarrollo **basado en Javascript** que te permite organizar, mantener y gestionar una aplicación basado en un concepto llamado componentes. 
+
+Destacar que cuenta con un soporte por parte de la comunidad de desarrolladores y Facebook como compañía. De ahí su seguridad y confianza.
+
+- En el lado del servidor tenemos Node.js, el cual es un ambiente de desarrollo basado en **Javascript** que permite
 
