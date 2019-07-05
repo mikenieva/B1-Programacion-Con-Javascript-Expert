@@ -90,6 +90,8 @@ Te compartimos consejos para mantenerte enfocado y persistente en este mundo de 
 
 Ahora si, comencemos.
 
+***
+
 ## ¿Que es Javascript?
 
 Javascript (JS) es:
@@ -107,7 +109,7 @@ Javascript (JS) es:
 
 ![](https://i.imgur.com/VD6w1tB.png)
 
-
+***
 
 ## ¿Qué son las variables?
 
