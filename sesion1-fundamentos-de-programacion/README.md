@@ -248,15 +248,15 @@ Es tu turno.
 
 Con respecto al tipo de datos `Number` puedes ejecutar operaciones para cambiar su valor.
 
-| Operador | Descripción                       | Ejemplo                                                                | Observaciones                                     |
-|----------|-----------------------------------|------------------------------------------------------------------------|---------------------------------------------------|
-| +        | Adición                           | var resultado = 4 + 3                                                  |                                                   |
-| -        | Substracción                      | var resultado = 4 - 3                                                  |                                                   |
-| *        | Multiplicación                    | var resultado = 4 * 3                                                  |                                                   |
-| /        | División                          | var resultado = 4 /3                                                   |                                                   |
-| %        | "Modulus"  Residuo de la división | var resultado = 5 % 2                                                  | "resultado" devolvería 1                          |
-| ++       | Incremento                        | var resultado = 4++                                                    | "resultado" devolvería 5, después de su ejecución |
-| --       | Decremento                        | var resultado = 4-- "resultado" es igual a 3, después de su ejecución. | "resultado" devolvería 3, después de su ejecución |
+| Operador | Descripción                       | Ejemplo               | Observaciones                                     |
+|----------|-----------------------------------|-----------------------|---------------------------------------------------|
+| +        | Adición                           | var resultado = 4 + 3 |                                                   |
+| -        | Substracción                      | var resultado = 4 - 3 |                                                   |
+| *        | Multiplicación                    | var resultado = 4 * 3 |                                                   |
+| /        | División                          | var resultado = 4 /3  |                                                   |
+| %        | "Modulus"  Residuo de la división | var resultado = 5 % 2 | "resultado" devolvería 1                          |
+| ++       | Incremento                        | var resultado = 4++   | "resultado" devolvería 5, después de su ejecución |
+| --       | Decremento                        | var resultado = 4--   | "resultado" devolvería 3, después de su ejecución |
 
 
 ### Ejercicio 2
