@@ -50,7 +50,7 @@ En la última encuesta de 2019, realizada a la plataforma [Stack Overflow](https
 
 Atentos de estas tendencias, muchas empresas confían sus productos digitales a Javascript, parcial o totalmente, en diferentes áreas de desarrollo. 
 
-Notemos que es posible, con Javascript, desarrollar también aplicaciones móviles y escritorio.
+Notemos que es posible, con Javascript, trabajar aplicaciones móviles y escritorio.
 
 ![tendencias](https://i.imgur.com/nlzlvO0.png)
 
@@ -110,15 +110,25 @@ Javascript (JS) es:
    2. CSS maneja la presentación, el diseño, la visualización de la aplicación.
    3. JS maneja la interactividad, efectos, dinamismo y más adelante, la gestión de datos y el flujo de los mismos a otras áreas de la aplicación.
 
-![](https://i.imgur.com/VD6w1tB.png)
+![Variables](https://i.imgur.com/wFvsBQv.png)
 
 ***
 
+## Tu primer archivo Javascript
+
+- En tu computadora, crearás una carpeta y posteriormente un archivo dentro del mismo  llamado `index.js`
+
+- Este archivo contendrá tus primeras líneas de código.
+
+- Abrirás tu editor (nos basaremos en este caso con Visual Studio Code) y darás click en "Open Folder" en la parte posterior de la ventana. Buscarás la carpeta, la seleccionarás y la abrirás.
+
 ## ¿Qué son las variables?
 
-Las variables se utilizan para almacenar información dentro de tu programa.
+Las variables se utilizan para almacenar información dentro de tu programa para ser manipulados.
 
-En el modo más general, te ayudan a etiquetar datos y así llamarlos en el momento que tú quieras a lo largo de la aplicación.
+En el modo más general, te ayudan a **etiquetar datos**. Los llamaremos en el momento que los necesitemos a lo largo del programa.
+
+![Variables](https://i.imgur.com/toMeYM2.png)
 
 Las variables se dividen en 4 partes:
 
@@ -126,12 +136,10 @@ Las variables se dividen en 4 partes:
 var deporte = "Atletismo"
 ```
 
-- Declaración (`var`). Cuando comienzas una variable, debes de utilizar la palabra `var`
-- Nombre (etiqueta). Irá del lado izquierdo. Será cómo llamarás la variable más adelante.
-- Asignación (`=`). A diferencia de la aritmética donde se le conoce como "igual", en Javascript se le conoce como asignación, el cual asignará el valor de lo que el área de su lado derecho genere hacia el lado izquierdo (Nombre).
-- Valor (Tipo de dato). Puede ser un texto, un número, un conjunto de datos (objetos, arreglos).
-
-Al final, lo que te permitirá esto es referenciar valores con etiquetas.
+- **Declaración (`var`)**. Cuando comienzas una variable, debes de utilizar la palabra `var`
+- **Nombre (etiqueta)**. Irá del lado izquierdo. Será cómo llamarás la variable más adelante.
+- **Asignación (`=`)**. A diferencia de la aritmética donde se le conoce como "igual", en Javascript se le conoce como asignación, el cual asignará el valor de lo que el área de su lado derecho genere hacia el lado izquierdo (Nombre).
+- **Valor (Tipo de dato)**. Puede ser un texto, un número, un conjunto de datos (objetos, arreglos).
  
 ***
 
@@ -146,22 +154,77 @@ var perro = "Firulais"
 var pais = "México"
 var edad = 35 
 ```
-Si tú lees el nombre de las variables anteriores, rápidamente comprendes de qué tratan.
+Si tú lees el nombre de las variables anteriores, rápidamente comprendes de qué tratan. 
 
-Como buena práctica, vale la pena que si generas una variable que implica dos palabras, utilices una técnica llamada "Camel Case", la cual te dice que coloques
+Si generas una variable que implica dos palabras, te recomendamos usar una técnica llamada **"Camel Case"**. (Fig 1.2) 
 
+Observemos un ejemplo:
 
+`Fig. 1.2`
+
+```javascript
+var paisLatinoamericano = "México"
+var animalVerde = "Rana"
+var impuestosAnuales = 250000 
+```
+
+**"Camel Case"** implica:
+
+- Conectar ambas palabras sin espacio, volviéndola una.
+- La palabra comenzará con minúscula.
+- La segunda palabra empezará con mayúscula. 
+
+***
+
+Con esto claro, hablemos de los **tipos de datos**
+
+## Tipos de Datos
+
+Para los valores de las variables, podemos utilizar diferentes formatos para expresar de mejor forma nuestro
+
+### Ejercicio 1
+
+Escribiremos todos los tipos de variables relacionados con el tema "alimentos". Utilizaremos `//` para indicar que es una línea de comentario. (Fig. 1.3)
+
+`Fig 1.3`
 
 ```javascript
 
+// STRING - Texto plano
+var fruta = "manzana"
+var fraseDesayuno = "Hoy comeré 3 manzanas"
+
+// NUMBER - Número
+var edad = 29
+var diasExpiracionManzana = 7
+
+// BOOLEAN (Booleano) - Valor vinculado al "verdadero" o "falso"
+var esComestible = true
+var esRoja = false 
+
+// UNDEFINED - Valor que tiene una variable a la cual no se le ha asignado ningún valor (aún)
+var fechaDesayuno
+// ó...
+var fechaDesayuno = undefined
+
+// NULL - La variable no tiene ningún valor. Puede referirse a un "no aplica".
+var cascaraManzana = null 
+
+// ARREGLO - Conjunto de datos. Cada lugar en el arreglo puede ser otro tipo de dato.
+var desayuno = ["Leche", "Manzana"]
+var invitados = ["Mike", "Andrés", "Salvador"]
+
+// OBJETO - Conjunto de datos, el cual contiene se estructuran en un formato llave:valor 
+
+var frutas = {
+    nombre: "manzana",
+    color: "roja",
+    esComestible: true   
+}
+
 ```
-Crearemos primero un archivo Javascript.
 
-
-
-Escribiremos todos los tipos de variables relacionados con el tema "alimentos".
-
-
+> Al inicio, puedes colocar tus variables en español para que practiques, pero en buena práctica usualmente colocamos las variables en idioma inglés. Esto hace que el idioma no sea una barrera en caso de que más desarrolladores trabajen al mismo tiempo y también los caracteres especiales (como los acentos o las ñ) afecten.
 
 
 ### Reto 1: Crea tus variables
