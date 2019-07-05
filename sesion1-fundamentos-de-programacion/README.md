@@ -255,8 +255,8 @@ Con respecto al tipo de datos `Number` puedes ejecutar operaciones para cambiar 
 | *        | Multiplicación                    | var resultado = 4 * 3 |                                                   |
 | /        | División                          | var resultado = 4 /3  |                                                   |
 | %        | "Modulus"  Residuo de la división | var resultado = 5 % 2 | "resultado" devolvería 1                          |
-| ++       | Incremento                        | var resultado = 4++   | "resultado" devolvería 5, después de su ejecución |
-| --       | Decremento                        | var resultado = 4--   | "resultado" devolvería 3, después de su ejecución |
+| ++       | Incremento                        | var resultado = 4++   | "resultado" devolvería 5, <br> después de su ejecución |
+| --       | Decremento                        | var resultado = 4--   | "resultado" devolvería 3, <br> después de su ejecución |
 
 ### Ejemplo 2
  
@@ -271,8 +271,12 @@ var resta = 4 - 3;
 var multiplicacion = 4 * 3;
 var division = 4 / 3;
 var resultado = 5 % 2;
-var incremento = 4++;
-var decremento = 4--;
+
+var incremento = 4;
+incremento++;
+
+var decremento = 4;
+decremento--;
 
 ```
 
@@ -302,7 +306,7 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 
 | Operador | Descripción                                             | Ejemplos devolviendo true |
 |----------|---------------------------------------------------------|---------------------------|
-| ==       | Igualdad. Devuelve `true` si ambos operando son iguales | 3 == 3 <br>  "mike" == "mike"   |
+| ==       | Igualdad. Devuelve `true` si ambos operando son iguales | 3 == 3 <br>"mike" == "mike"   |
 |          |                                                         |                           |
 |          |                                                         |                           |
 |          |                                                         |                           |
@@ -310,8 +314,9 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 |          |                                                         |                           |
 |          |                                                         |                           |
 |          |                                                         |                           |
-- `{}`. En las llaves, colocaremos nuestras sentencias de ejecución. 
-
+ 
+ 
+- `{}`. Finalmente, en las llaves, colocaremos nuestras sentencias de ejecución.
 
 ```javascript
 if(10 > 5) {
@@ -327,6 +332,7 @@ if (10 == 5) {
 }
 
 ```
+
 
 
 ### Ejercicio 3
