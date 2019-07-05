@@ -32,9 +32,9 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
   
 ***
 
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
+## 1. ¿Por qué Javascript?
 
-La gran bienvenida a Javascript.
+Te damos la gran bienvenida a Javascript.
 
 Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 
@@ -62,7 +62,7 @@ Ahora, el conjunto de tecnologías que necesitarás para construir aplicaciones 
 
 Observa que:
 
-- Del lado del cliente tenemos React, un framework de desarrollo **basado en Javascript** que te permite organizar, mantener y gestionar una aplicación basado en un concepto llamado componentes.  
+- Del lado del cliente tenemos React, un framework **basado en Javascript** que te permite organizar, mantener y gestionar una aplicación basado en un concepto llamado componentes.  
 
 > Destacar que React cuenta con un soporte sólido por parte de la comunidad de desarrolladores y también de Facebook, como compañía. De ahí su seguridad y confianza.
 
@@ -70,5 +70,50 @@ Observa que:
 
 - Finalmente, encontramos MongoDB, una base de datos no relacional, el cual es muy amigable y al trabajar con él para su manejo, verás que se parecerá mucho al lenguaje de Javascript.
 
-***
+## ¿Cómo comenzar y qué hacer?
+
+Para poder utilizar todas las tecnologías mencionadas y crear aplicaciones robustas, deberás formar buenas bases Javascript.
+
+A pesar de que es un lenguaje el cual podrás aplicar en poco tiempo, es necesario enfatizar que practicar es la clave. 
+
+Te compartimos consejos para mantenerte enfocado y persistente en este mundo de la programación:
+
+- Al inicio, probablemente muchos conceptos no tengan mucho sentido o implique mucho trabajo comprenderlos. **Es normal.** Sólo es cuestión de ejercitar lógica con muchos ejercicios y retos, los cuales la gran mayoría te los iremos compartiendo a lo largo del módulo.
+
+- No tengas miedo en pedir ayuda o asumir que no sabes. Las personas que se dedican o implican tecnología en sus carreras profesionales saben que para crecer más rápido deben de aceptar que no lo saben todo. **Acercarse a otras personas alrededor cuando hay obstáculos hará más fácil tu progreso.**
+
+- Encuentra espacios de estudio. Programar puede parecer diferente a otra área profesional debido a que necesitas momentos donde debes compartir, debatir y hablar sobre tus conclusiones técnicas, pero también te servirá mucho encontrar lugares, tiempos, momentos, donde puedas concentrarte, enfocarte y teclear mucho.
+
+- Se vale Googlear. Probablemente llegues a estancarte y pasar una o dos horas en algunas líneas de código. Ten la confianza de ir a Google y buscar la respuesta. Encontrarás muchos desarrolladores que han pasado por ese mismo momento y han compartido cómo lo resolvieron. **Buscar ayuda en Internet es normal.** 
+
+> Cabe aclarar, "copiar y pegar" código **no es una buena práctica**. Es importante que todo el código que tú coloques en tu proyecto lo entiendas. Sepas por qué está ahí. Esto hará que tu aplicación pueda seguir creciendo y sigas teniendo, junto con tu equipo, el control del mismo.
+
+Ahora si, comencemos.
+
+## ¿Que es Javascript?
+
+Javascript (JS) es:
+
+1. Un lenguaje de programación que permite ejecutarse en cada navegador (Google Chrome, Safari, Firefox, Opera, etc.).
+2. Multiplataforma. Puede ser utilizado en muchas plataformas y sistemas
+3. Multiparadigma. Se puede manejar orientación a objetos, funcional, reactivo. Más adelante explicaremos como se utilizan.
+
+4. Aclaración: **Javascript no es JAVA. Son diferentes lenguajes.**
+
+5. Javascript desde el navegador, trabaja con HTML y CSS para el manejo de la aplicación hacia el usuario.
+   1. HTML maneja el contenido, la estructura, el esqueleto, el "markup".
+   2. CSS maneja la presentación, el diseño, la visualización de la aplicación.
+   3. JS maneja la interactividad, efectos, dinamismo y más adelante, la gestión de datos y el flujo de los mismos a otras áreas de la aplicación.
+
+![](https://i.imgur.com/VD6w1tB.png)
+
+
+
+## ¿Qué son las variables?
+
+Las variables se utilizan para almacenar información.
+
+
+
+ 
 
