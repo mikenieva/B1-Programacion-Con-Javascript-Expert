@@ -46,6 +46,8 @@ En la última encuesta de 2019, realizada a la plataforma [Stack Overflow](https
 
 ![](https://i.imgur.com/ZZmILsS.png)
 
+***
+
 Atentos de estas tendencias, muchas empresas confían sus productos digitales a Javascript, parcial o totalmente, en diferentes áreas de desarrollo. 
 
 Notemos que es posible, con Javascript, desarrollar también aplicaciones móviles y escritorio.
