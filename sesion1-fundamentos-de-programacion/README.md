@@ -116,9 +116,7 @@ Javascript (JS) es:
 
 ## Tu primer archivo Javascript
 
-- En tu computadora, crearás una carpeta y posteriormente un archivo dentro del mismo  llamado `index.js`
-
-- Este archivo contendrá tus primeras líneas de código.
+- En tu computadora, crearás una carpeta llamada `bedu-sesion1`. Aquí colocaremos todos nuestros ejercicios siguientes.
 
 - Abrirás tu editor (nos basaremos en este caso con Visual Studio Code) y darás click en "Open Folder" en la parte posterior de la ventana. Buscarás la carpeta, la seleccionarás y la abrirás.
 
@@ -147,7 +145,7 @@ Ahora bien, nombrar tus variables implica que deberán ser lo más descriptivas 
 
 Es decir, que si otras personas leyeran tu código, entenderían rápidamente que significa cada dato porque el nombre de su variable lo explica todo. (Fig 1.1)
 
-`Fig. 1.1`
+**`Fig. 1.1`**
 ```javascript
 var saludo = "Hola Mundo"
 var perro = "Firulais"
@@ -160,7 +158,7 @@ Si generas una variable que implica dos palabras, te recomendamos usar una técn
 
 Observemos un ejemplo:
 
-`Fig. 1.2`
+**`Fig. 1.2`**
 
 ```javascript
 var paisLatinoamericano = "México"
@@ -182,11 +180,15 @@ Con esto claro, hablemos de los **tipos de datos**.
 
 Para los valores de las variables, podemos utilizar diferentes formatos para expresar de mejor forma nuestro
 
-### Ejercicio 1
+### Ejemplo 1
 
-Escribiremos todos los tipos de variables relacionados con el tema "alimentos". Utilizaremos `//` para indicar que es una línea de comentario. (Fig. 1.3)
+- Escribiremos todos los tipos de variables relacionados con el tema "alimentos". 
 
-`Fig 1.3`
+- Abre un archivo dentro de nuestra carpeta creada llamado `ex1.js`
+
+- Utilizaremos `//` para indicar que es una línea de comentario. (Fig. 1.3)
+
+**`Fig 1.3`**
 
 ```javascript
 
@@ -224,7 +226,11 @@ var frutas = {
 
 ```
 
-> Al inicio, puedes colocar tus variables en español para que practiques, pero en buena práctica usualmente colocamos las variables en idioma inglés. **Esto hace que el idioma no sea una barrera** en caso de que otros desarrolladores trabajen tu proyecto, incluyendo los caracteres especiales (como los acentos o las ñ).
+> Al inicio, puedes colocar tus variables en español para que practiques, pero en buena práctica usualmente colocamos las variables en idioma inglés. **Esto hace que el idioma no sea una barrera**, en caso de que otros desarrolladores trabajen tu proyecto, incluyendo los caracteres especiales (como los acentos o las ñ).
+
+- Abramos el navegador, click derecho para abrir `Inspect` y el área `console` para que revisemos cada tipo de dato. Escribe el nombre de tu variable para observar qué retorna. 
+
+![](https://i.imgur.com/ezQIe3f.png)
 
 ***
 
@@ -232,14 +238,17 @@ var frutas = {
 
 Es tu turno. 
 
-- Crea un archivo sesion1-reto1.js
+- Crea un archivo r1.js
  
 - Escribe una variable para cada tipo de dato enfocado en el tema que quieras.
 
+- Abre una ventana en tu navegador y sitúate
 
 ***
 
 ## Operadores Básicos
+
+Con respecto al tipo de datos `Number` puedes ejecutar operaciones para cambiar su valor.
 
 | Operador | Descripción                       | Ejemplo                                                                | Observaciones                                     |
 |----------|-----------------------------------|------------------------------------------------------------------------|---------------------------------------------------|
@@ -250,6 +259,15 @@ Es tu turno.
 | %        | "Modulus"  Residuo de la división | var resultado = 5 % 2                                                  | "resultado" devolvería 1                          |
 | ++       | Incremento                        | var resultado = 4++                                                    | "resultado" devolvería 5, después de su ejecución |
 | --       | Decremento                        | var resultado = 4-- "resultado" es igual a 3, después de su ejecución. | "resultado" devolvería 3, después de su ejecución |
+
+
+### Ejercicio 2
+
+Coloquemos ahora cada uno de ellos en nues
+
+
+### Reto 2
+
 
 ## Condicionales
 
