@@ -147,10 +147,10 @@ Es decir, que si otras personas leyeran tu código, entenderían rápidamente qu
 
 **`Fig. 1.1`**
 ```javascript
-var saludo = "Hola Mundo"
-var perro = "Firulais"
-var pais = "México"
-var edad = 35 
+var saludo = "Hola Mundo";
+var perro = "Firulais";
+var pais = "México";
+var edad = 35;
 ```
 Si tú lees el nombre de las variables anteriores, rápidamente comprendes de qué tratan. 
 
@@ -161,9 +161,9 @@ Observemos un ejemplo:
 **`Fig. 1.2`**
 
 ```javascript
-var paisLatinoamericano = "México"
-var animalVerde = "Rana"
-var impuestosAnuales = 250000 
+var paisLatinoamericano = "México";
+var animalVerde = "Rana";
+var impuestosAnuales = 250000; 
 ```
 
 **"Camel Case"** implica:
@@ -271,6 +271,8 @@ var resta = 4 - 3;
 var multiplicacion = 4 * 3;
 var division = 4 / 3;
 var resultado = 5 % 2;
+var incremento = 4++;
+var decremento = 4--;
 
 ```
 
@@ -283,7 +285,55 @@ var resultado = 5 % 2;
 - `if` es el tipo de condicional más común y corre sólo si la condición encerrada entre parentesis es verdadera (“truthy”)
 
 
+La sintaxis está armada de esta forma:
+
+```javascript
+
+if(10 > 5) {
+    console.log("Soy un mensaje que sí va a aparecer")    
+}
+
+```
+
+- `if`. Primer elemento que indica que realizarás un condicional.
+- `()`. Dentro de los paréntesis colocarás dos elementos que compararás y verificarás su condición. Si cumplen con la condición, se le considerará que es `true` (verdadero) y ejecutará lo que esté en las llaves. En caso contrario, se denominará `false` (falso) e ignorará todo el código que se encuentre dentro de las llaves.  
+
+Para realizar las operaciones de comparación existen diferentes operadores:
+
+
+
+- `{}`. En las llaves, colocaremos nuestras sentencias de ejecución. 
+
+
+```javascript
+if(10 > 5) {
+    console.log("Soy un mensaje que sí va a aparecer")    
+}
+
+if (10 < 5) {
+    console.log("Jamás voy a aparecer porque 10 jamás será menor que 5")
+}
+
+if (10 == 5) {
+    console.log("Tampoco voy a aparecer porque 10 no es igual a 5")
+}
+
+```
+
+
 ### Ejercicio 3
+
+- Hagamos un programa que, dependiendo de la hora, nos salude correctamente.
+
+````javascript
+ 
+var noonHour = 12
+var nightHour = 19
+
+if(noonHour > 12)
+
+````
+
 
 ***
 
