@@ -238,7 +238,7 @@ var frutas = {
 
 Es tu turno. 
 
-- Crea un archivo r1.js
+- Crea un archivo reto1.js
  
 - Escribe una variable para cada tipo de dato, al tema que quieras.
 
@@ -288,6 +288,7 @@ decremento--;
 
 - `if` es el tipo de condicional más común y corre sólo si la condición encerrada entre parentesis es verdadera (“truthy”)
 
+- Traducida literalmente del inglés, se la podría llamar la estructura "si...si no", es decir, "si se cumple la condición, haz esto, y sino, haz esto otro"
 
 La sintaxis está armada de esta forma:
 
@@ -316,19 +317,8 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 | <=       | **Menor o igual que.**                                                                                            | 15 <= 15                                                      |
 - `{}`. Finalmente, en las llaves, colocaremos nuestras sentencias de ejecución.
 
-```javascript
-var myAge = 29
 
-if(myAge >= 18) {
-    console.log("Eres mayor de adod")    
-}
-
-
-
-
-```
-
-### Ejercicio 3
+### Ejemplo 3
 
 - Hagamos un programa que, dependiendo de la hora, nos salude correctamente.
 
@@ -350,25 +340,70 @@ if(now > 19){
 
 ````
 
+Ahora bien, en lugar de estar colocando únicamente `if`, podemos concatenar las condicionales con `else if`.
+
+````javascript
+
+var now = 13
+
+if(now < 12){
+  console.log("Buenos días")
+} else if(now >= 12 && now <= 19 ){
+  console.log("Buenas tardes")
+} else if(now > 19){
+  console.log("Buenas noches")
+} else {
+    console.log("No entiendo que hora es")
+}
+
+````
+Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción que no haya cumplido con las anteriores. 
 
 ***
 
 ### Reto 2: Piedra, papel o tijeras
 
-- Crea un piedra, papel o tijeras utilizando condicionales.  
+- Crea un archivo nuevo, reto2.js
+
+- Crea un programa que simule un juego de piedra, papel o tijeras, utilizando condicionales.
 
 ## Ciclos
 
-### Ejercicio 4
+- Ahora bien, los ciclos (bucles) ofrecen una manera rápida y sencilla de hacer algo repetidamente.
+
+- Un ciclo `for` se repite hasta que la condición especificada se evalúa como `false`.
+
+
+### Ejemplo 4
 
 ***
 
-### Reto 3: Piedra, papel o tijeras
+### Reto 3: Par o impar
 
+- Crea
 
 ## Funciones
 
-### Ejercicio 4
+- Son conjunto de sentencias que realizan una tarea o calculan un valor.
+
+- Tienen dos momentos: **declaración** e **invocación**.
+
+- Pueden ser invocadas las veces que se necesiten. Dentro del mismo archivo o en externos.
+
+### Ejemplo 5
+
+````javascript
+// DECLARACIÓN
+function congelar(alimento){
+    console.log("Congelando" + " " + alimento)
+}
+
+// INVOCACIÓN
+
+congelar("pollo")
+congelar("carne")
+congelar("helado")
+````
 
 ***
 
