@@ -304,36 +304,29 @@ if(10 > 5) {
 
 Para realizar las operaciones de comparación utilizamos sus operadores:
 
-| Operador | Descripción                                             | Ejemplos devolviendo true |
-|----------|---------------------------------------------------------|---------------------------|
-| ==       | Igualdad. Devuelve `true` si ambos operando son iguales | 3 == 3 <br>"mike" == "mike"   |
-|          |                                                         |                           |
-|          |                                                         |                           |
-|          |                                                         |                           |
-|          |                                                         |                           |
-|          |                                                         |                           |
-|          |                                                         |                           |
-|          |                                                         |                           |
- 
- 
+| Operador | Descripción                                                                                                   | Ejemplos                                                      |
+|----------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ==       | Igualdad. Devuelve `true` si ambos operandos son iguales                                                      | 3 == 3<br> 3 == "3"<br> "mike" == "mike"<br> var1 == true<br> |
+| !=       | Desigualdad. Devuelve `true` si ambos operandos no son iguales                                                | 3 != 4                                                        |
+| ===      | Estrictamente iguales.<br> Devuelve `true` si los operandos son igual<br> y tienen el mismo tipo.             | 3 === 3 <br><br> 3 === "3"<br> (Devuelve falso)               |
+| !==      | Estrictamente desiguales. <br> Devuelve `true` si los operandos no son iguales<br> y/o no son del mismo tipo. | 3 !== "3"                                                     |
+| >        | "Mayor que". Devuelve `true` si el operando de la izquierda<br> es mayor que el operando de la derecha.       | 4 > 3                                                         |
+| >=       | Mayor o igual que.                                                                                            | 4 >= 4                                                        |
+| <        | "Menor que". Devuelve true si el operando de la izquierda<br>  es menor que el operando de la derecha.        | 12 < 15                                                       |
+| <=       | Menor o igual que.                                                                                            | 15 <= 15                                                      |
 - `{}`. Finalmente, en las llaves, colocaremos nuestras sentencias de ejecución.
 
 ```javascript
-if(10 > 5) {
-    console.log("Soy un mensaje que sí va a aparecer")    
+var myAge = 29
+
+if(myAge >= 18) {
+    console.log("Eres mayor de adod")    
 }
 
-if (10 < 5) {
-    console.log("Jamás voy a aparecer porque 10 jamás será menor que 5")
-}
 
-if (10 == 5) {
-    console.log("Tampoco voy a aparecer porque 10 no es igual a 5")
-}
+
 
 ```
-
-
 
 ### Ejercicio 3
 
