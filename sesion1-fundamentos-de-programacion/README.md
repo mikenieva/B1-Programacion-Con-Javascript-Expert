@@ -180,7 +180,7 @@ Con esto claro, hablemos de los **tipos de datos**.
 
 Para los valores de las variables, podemos utilizar diferentes formatos para expresar de mejor forma nuestro
 
-### Ejemplo 1
+### Ejemplo 1: Tipos de Datos:
 
 - Escribiremos todos los tipos de variables relacionados con el tema "alimentos". 
 
@@ -258,7 +258,7 @@ Con respecto al tipo de datos `Number` puedes ejecutar operaciones para cambiar 
 | ++       | Incremento                        | var resultado = 4++   | "resultado" devolvería 5, <br> después de su ejecución |
 | --       | Decremento                        | var resultado = 4--   | "resultado" devolvería 3, <br> después de su ejecución |
 
-### Ejemplo 2
+### Ejemplo 2: Operadores Básicos
  
 - Abramos un archivo nuevo `ex2.js`
 
@@ -281,6 +281,8 @@ decremento--;
 ```
 
 > Vale la pena aclarar sobre la separación de cada línea en Javascript con punto y coma `;`. Javascript no requiere estrictamente usar puntos y comas al final de cada línea, sin embargo vale la pena colocarlos. Ahora, en algún punto, cuando alcances un mejor nivel, podrías considerarlos opcional mientras cumplas con ciertos criterios. [Te compartimos un artículo que habla sobre este tema.](https://flaviocopes.com/javascript-automatic-semicolon-insertion/). 
+
+***
 
 ## Condicionales
 
@@ -318,7 +320,7 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 - `{}`. Finalmente, en las llaves, colocaremos nuestras sentencias de ejecución.
 
 
-### Ejemplo 3
+### Ejemplo 3: Condicionales
 
 - Hagamos un programa que, dependiendo de la hora, nos salude correctamente.
 
@@ -363,9 +365,11 @@ Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción q
 
 ### Reto 2: Piedra, papel o tijeras
 
-- Crea un archivo nuevo, reto2.js
+- Crea un archivo nuevo, `reto2.js`
 
 - Crea un programa que simule un juego de piedra, papel o tijeras, utilizando condicionales.
+
+***
 
 ## Ciclos
 
@@ -374,7 +378,7 @@ Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción q
 - Un ciclo `for` se repite hasta que la condición especificada se evalúa como `false`.
 
 
-### Ejemplo 4
+### Ejemplo 4: Ciclos
 
 ***
 
@@ -390,7 +394,7 @@ Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción q
 
 - Pueden ser invocadas las veces que se necesiten. Dentro del mismo archivo o en externos.
 
-### Ejemplo 5
+### Ejemplo 5: Funciones
 
 ````javascript
 // DECLARACIÓN
