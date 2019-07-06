@@ -254,7 +254,7 @@ Con respecto al tipo de datos `Number` puedes ejecutar operaciones para cambiar 
 | -        | Substracción                      | var resultado = 4 - 3 |                                                   |
 | *        | Multiplicación                    | var resultado = 4 * 3 |                                                   |
 | /        | División                          | var resultado = 4 /3  |                                                   |
-| %        | "Modulus"  Residuo de la división | var resultado = 5 % 2 | "resultado" devolvería 1                          |
+| %        | "Modulus"<br>Residuo de la división | var resultado = 5 % 2 | "resultado" devolvería 1                          |
 | ++       | Incremento                        | var resultado = 4++   | "resultado" devolvería 5, <br> después de su ejecución |
 | --       | Decremento                        | var resultado = 4--   | "resultado" devolvería 3, <br> después de su ejecución |
 
@@ -306,14 +306,14 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 
 | Operador | Descripción                                                                                                   | Ejemplos                                                      |
 |----------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ==       | Igualdad. Devuelve `true` si ambos operandos son iguales                                                      | 3 == 3<br> 3 == "3"<br> "mike" == "mike"<br> var1 == true<br> |
-| !=       | Desigualdad. Devuelve `true` si ambos operandos no son iguales                                                | 3 != 4                                                        |
-| ===      | Estrictamente iguales.<br> Devuelve `true` si los operandos son igual<br> y tienen el mismo tipo.             | 3 === 3 <br><br> 3 === "3"<br> (Devuelve falso)               |
-| !==      | Estrictamente desiguales. <br> Devuelve `true` si los operandos no son iguales<br> y/o no son del mismo tipo. | 3 !== "3"                                                     |
-| >        | "Mayor que". Devuelve `true` si el operando de la izquierda<br> es mayor que el operando de la derecha.       | 4 > 3                                                         |
-| >=       | Mayor o igual que.                                                                                            | 4 >= 4                                                        |
-| <        | "Menor que". Devuelve true si el operando de la izquierda<br>  es menor que el operando de la derecha.        | 12 < 15                                                       |
-| <=       | Menor o igual que.                                                                                            | 15 <= 15                                                      |
+| ==       | **Igualdad.** Devuelve `true` si ambos operandos son iguales                                                      | 3 == 3<br> 3 == "3"<br> "mike" == "mike"<br> var1 == true<br> |
+| !=       | **Desigualdad.** Devuelve `true` si ambos operandos no son iguales                                                | 3 != 4                                                        |
+| ===      | **Estrictamente iguales.**<br> Devuelve `true` si los operandos son igual<br> y tienen el mismo tipo.             | 3 === 3 <br><br> 3 === "3"<br> (Devuelve falso)               |
+| !==      | **Estrictamente desiguales.** <br> Devuelve `true` si los operandos no son iguales<br> y/o no son del mismo tipo. | 3 !== "3"                                                     |
+| >        | **"Mayor que".** Devuelve `true` si el operando de la izquierda<br> es mayor que el operando de la derecha.       | 4 > 3                                                         |
+| >=       | **Mayor o igual que.**                                                                                            | 4 >= 4                                                        |
+| <        | **"Menor que".** Devuelve true si el operando de la izquierda<br>  es menor que el operando de la derecha.        | 12 < 15                                                       |
+| <=       | **Menor o igual que.**                                                                                            | 15 <= 15                                                      |
 - `{}`. Finalmente, en las llaves, colocaremos nuestras sentencias de ejecución.
 
 ```javascript
