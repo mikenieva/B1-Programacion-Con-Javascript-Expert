@@ -8,7 +8,7 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
 
 ## Tabla de Contenido
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#)**
+  - **[¿Por qué Javascript?](#)**
     - Ejercicio 1
     - Reto 1
     
@@ -32,7 +32,7 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
   
 ***
 
-## 1. ¿Por qué Javascript?
+## ¿Por qué Javascript?
 
 Te damos la gran bienvenida a Javascript.
 
@@ -110,7 +110,7 @@ Javascript (JS) es:
    2. CSS maneja la presentación, el diseño, la visualización de la aplicación.
    3. JS maneja la interactividad, efectos, dinamismo y más adelante, la gestión de datos y el flujo de los mismos a otras áreas de la aplicación.
 
-![Variables](https://i.imgur.com/VD6w1tB.png)
+![Variables](https://i.imgur.com/tLOdtji.png)
 
 ***
 
@@ -319,14 +319,12 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 | <=       | **Menor o igual que.**                                                                                            | 15 <= 15                                                      |
 - `{}`. Finalmente, en las llaves, colocaremos nuestras sentencias de ejecución.
 
-
 ### Ejemplo 3: Condicionales
 
 - Hagamos un programa que, dependiendo de la hora, nos salude correctamente.
 
 ````javascript
- 
-var now = 13
+ var now = 13
 
 if(now < 12){
   console.log("Buenos días")
@@ -345,7 +343,6 @@ if(now > 19){
 Ahora bien, en lugar de estar colocando únicamente `if`, podemos concatenar las condicionales con `else if`.
 
 ````javascript
-
 var now = 13
 
 if(now < 12){
@@ -357,7 +354,6 @@ if(now < 12){
 } else {
     console.log("No entiendo que hora es")
 }
-
 ````
 Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción que no haya cumplido con las anteriores. 
 
@@ -380,11 +376,14 @@ Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción q
 
 ### Ejemplo 4: Ciclos
 
+
+
+
 ***
 
 ### Reto 3: Par o impar
 
-- Crea
+- Crea un ciclo que cuente del 0 al 100
 
 ## Funciones
 
