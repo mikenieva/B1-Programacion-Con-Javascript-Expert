@@ -110,7 +110,7 @@ Javascript (JS) es:
    2. CSS maneja la presentación, el diseño, la visualización de la aplicación.
    3. JS maneja la interactividad, efectos, dinamismo y más adelante, la gestión de datos y el flujo de los mismos a otras áreas de la aplicación.
 
-![Variables](https://i.imgur.com/tLOdtji.png)
+![Variables](https://i.imgur.com/yNwZN3I.png)
 
 ***
 
