@@ -9,12 +9,10 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
 ## Tabla de Contenido
   
   - **[¿Por qué Javascript?](#)**
-    - Ejercicio 1
-    - Reto 1
     
-  - **[Condicionales](#)**
-    - Ejercicio 2
-    - Reto 2
+  - **[¿Cómo comenzar y qué hacer?](#)**
+  
+  - **[¿Cómo comenzar y qué hacer?](#)**  
     
   - **[Ciclos](#)**
     - Ejercicio 3
@@ -296,7 +294,7 @@ La sintaxis está armada de esta forma:
 
 ```javascript
 
-if(10 > 5) {
+if (10 > 5) {
     console.log("Soy un mensaje que sí va a aparecer")    
 }
 
@@ -324,22 +322,20 @@ Para realizar las operaciones de comparación utilizamos sus operadores:
 - Hagamos un programa que, dependiendo de la hora, nos salude correctamente.
 
 ````javascript
- var now = 13
+var now = 13
 
-if(now < 12){
+if (now < 12) {
   console.log("Buenos días")
 }
 
-if(now >= 12 && now <= 19 ){
+if (now >= 12 && now <= 19 ) {
   console.log("Buenas tardes")
 }
 
-if(now > 19){
+if (now > 19) {
   console.log("Buenas noches")
 }
-
 ````
-
 Ahora bien, en lugar de estar colocando únicamente `if`, podemos concatenar las condicionales con `else if`.
 
 ````javascript
@@ -373,8 +369,27 @@ Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción q
 
 - Un ciclo `for` se repite hasta que la condición especificada se evalúa como `false`.
 
+- Nos permiten repetir la ejecución de un código múltiples veces.
 
 ### Ejemplo 4: Ciclos
+
+Pensemos que queremos repetir una palabra 5 veces y que aparezca en consola:
+
+```javascript
+console.log("hola");
+console.log("hola");
+console.log("hola");
+console.log("hola");
+console.log("hola");
+```
+
+Excelente, funcionará y se reflejarán en la consola. Ahora bien, si te dijera que queremos repetirlo 1000 veces, entonces copiar y pegar cada línea se volvería ineficiente (aparte de odiar al que te dio la instrucción).
+
+¿Qué podemos hacer?
+
+Es donde entran los ciclos. Los ciclos permiten repetir código las veces que tú le indiques.
+
+
 
 
 
@@ -383,7 +398,8 @@ Observa al final que utilizamos `else`, el cual ejecuta cualquier otra opción q
 
 ### Reto 3: Par o impar
 
-- Crea un ciclo que cuente del 0 al 100
+- Crea un ciclo que cuente del 0 al 100.
+- Que ejecute un console.log si el número que está tocando en ese momento es par 
 
 ## Funciones
 
