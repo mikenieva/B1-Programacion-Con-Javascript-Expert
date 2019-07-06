@@ -1,5 +1,6 @@
 # Table of contents
 
+ - **[Introducción](README.md)**
 
  - **[Sesión 1: Fundamentos de Programación](https://github.com/mikenieva/programacion-js-student/tree/master/sesion1-fundamentos-de-programacion)**	
 
