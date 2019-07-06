@@ -1,6 +1,6 @@
 # BEDU: Módulo Javascript	
 
- ## Objetivos	
+## Objetivos	
 
  En este módulo, conocerás los fundamentos de Javascript, el lenguaje de programación de la web, y aprenderás sobre sus aplicaciones en el mundo real.	
 
