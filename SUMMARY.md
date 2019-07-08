@@ -2,13 +2,14 @@
 
 ## Use headings to create page groups like this one
 
-* [First page's title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
-* [Second page's title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
-    
-## A second page group
+- **[Introducción](README.md)**
 
-* [Yet another page](another-page.md)
+* [Sesión 1: Fundamentos de Programación](page1/README.md)
+* [Sesión 2: DOM](page1/README.md)
+* [Sesión 3: ES6](page1/README.md)
+* [Sesión 4: NodeJS & Arquitectura MVC](page1/README.md)
+* [Sesión 5: JSON & APIs](page1/README.md)
+* [Sesión 6: Asincronía](page1/README.md)
+* [Sesión 7: Programación Orientada a Objetos](page1/README.md)
+* [Sesión 8: Programación Funcional](page1/README.md)
+
