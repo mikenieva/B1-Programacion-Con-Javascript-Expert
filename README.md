@@ -19,16 +19,20 @@ Tu instructor te dará guía sobre los siguientes pasos.
 
 - **[Sesión 1: Fundamentos de Programación](sesion1-fundamentos-de-programacion/README.md)**
 
-- **[Sesión 2: DOM](https://bedu.mikenieva.com/sesion2-dom)**
+- **[Sesión 2: DOM](sesion2-dom/README.md)**
   
-- **[Sesión 3: ES6](https://bedu.mikenieva.com/sesion3-es6)**
+- **[Sesión 3: ES6](sesion3-es6/README.md)**
 
-- **[Sesión 4: NodeJS & Arquitectura](https://bedu.mikenieva.com/sesion4-nodejs-y-arquitectura-mvc)**
+- **[Sesión 4: NodeJS & Arquitectura](sesion4-nodejs-y-arquitectura-mvc/README.md)**
 
-- **[Sesión 5: JSON & APIs](https://bedu.mikenieva.com/sesion5-json-y-apis)**
+- **[Sesión 5: JSON & APIs](sesion5-json-y-apis/README.md)**
 
-- **[Sesión 6: Asincronía](https://bedu.mikenieva.com/sesion6-ajax-y-programacion-asincrona)**
+- **[Sesión 6: Asincronía](sesion6-ajax-y-programacion-asincrona/README.md)**
 
-- **[Sesión 7: Programación Orientada a Objetos](https://bedu.mikenieva.com/sesion7-programacion-orientada-a-objetos)**
+- **[Sesión 7: Programación Orientada a Objetos](sesion7-programacion-orientada-a-objetos/README.md)**
 
-- **[Sesión 8: Programación Funcional](https://bedu.mikenieva.com/sesion8-programacion-funcional)**
+- **[Sesión 8: Programación Funcional](sesion8-programacion-funcional/README.md)**
+
+***
+
+- **[BEDU Travels](BEDU-Travels.md)**

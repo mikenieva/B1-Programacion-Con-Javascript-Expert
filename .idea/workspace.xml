@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b542b9a8-cd52-4e25-9532-fcad86ce799b" name="Default Changelist" comment="" />
+    <list default="true" id="b542b9a8-cd52-4e25-9532-fcad86ce799b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,54 +19,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/README.md">
+        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="231">
-                <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <first_editor relative-caret-position="105">
+                <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="175">
-                <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo1/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo2/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo3/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -74,7 +34,9 @@
         <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo4/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="525">
+                <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -84,7 +46,45 @@
         <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo5/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="315">
+                <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto3/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="84">
+                <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto4/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="147">
+                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="399">
+                <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="33" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -96,14 +96,18 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="355">
                 <caret line="1921" lean-forward="true" selection-start-line="1921" selection-end-line="1921" />
-                <folding>
-                  <element signature="e#20#45#0" expanded="true" />
-                  <element signature="e#20#57#0" expanded="true" />
-                  <element signature="e#110#135#0" expanded="true" />
-                  <element signature="e#0#37#0" expanded="true" />
-                  <element signature="e#0#25#0" expanded="true" />
-                  <element signature="e#20#57#0" expanded="true" />
-                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="476">
+                <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,11 +115,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="147">
-                <caret line="6" column="87" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="87" />
+              <first_editor relative-caret-position="567">
+                <caret line="22" column="461" selection-start-line="22" selection-start-column="461" selection-end-line="22" selection-end-column="461" />
               </first_editor>
               <second_editor />
             </state>
@@ -123,11 +127,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto-bedutravels/README.md">
+        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo3/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="277">
-                <caret line="158" column="10" lean-forward="true" selection-end-line="270" />
+              <first_editor relative-caret-position="539">
+                <caret line="35" selection-start-line="35" selection-end-line="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,6 +159,15 @@
         <option value="$PROJECT_DIR$/sesion2-dom/reto1/README.md" />
         <option value="$PROJECT_DIR$/sesion2-dom/README.md" />
         <option value="$PROJECT_DIR$/BEDU-Travels.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo1/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto1/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo2/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo3/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto2/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo4/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto3/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo5/README.md" />
+        <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto4/README.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
@@ -193,17 +206,6 @@
             <path>
               <item name="bedutravels-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="bedutravels-student" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bedutravels-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bedutravels-student" type="462c0819:PsiDirectoryNode" />
-              <item name="sesion1-fundamentos-de-programacion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bedutravels-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bedutravels-student" type="462c0819:PsiDirectoryNode" />
-              <item name="sesion1-fundamentos-de-programacion" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemplo1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,12 +247,12 @@
       <workItem from="1562268656300" duration="208000" />
       <workItem from="1562268887515" duration="101000" />
       <workItem from="1562269011613" duration="26365000" />
-      <workItem from="1562552745023" duration="7683000" />
+      <workItem from="1562552745023" duration="8128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34357000" />
+    <option name="totallyTimeSpent" value="34802000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,24 +310,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto1/hola.js" />
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sesion2-dom/reto1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -364,61 +348,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo3/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo4/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo5/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto-bedutravels/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="277">
             <caret line="158" column="10" lean-forward="true" selection-end-line="270" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEDU-Travels.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="355">
-            <caret line="1921" lean-forward="true" selection-start-line="1921" selection-end-line="1921" />
-            <folding>
-              <element signature="e#20#45#0" expanded="true" />
-              <element signature="e#20#57#0" expanded="true" />
-              <element signature="e#110#135#0" expanded="true" />
-              <element signature="e#0#37#0" expanded="true" />
-              <element signature="e#0#25#0" expanded="true" />
-              <element signature="e#20#57#0" expanded="true" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -434,11 +368,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1239">
+            <caret line="51" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="147">
-            <caret line="6" column="87" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="87" />
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="539">
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="567">
+            <caret line="22" column="461" selection-start-line="22" selection-start-column="461" selection-end-line="22" selection-end-column="461" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo5/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/reto4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="147">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEDU-Travels.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="355">
+            <caret line="1921" lean-forward="true" selection-start-line="1921" selection-end-line="1921" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
@@ -447,17 +481,9 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+          <first_editor relative-caret-position="476">
+            <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
