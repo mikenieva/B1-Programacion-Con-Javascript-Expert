@@ -17,7 +17,7 @@ Tu instructor te dará guía sobre los siguientes pasos.
 
 ***
 
-- **[Sesión 1: Fundamentos de Programación](https://bedu.mikenieva.com/sesion1-fundamentos-de-programacion)**
+- **[Sesión 1: Fundamentos de Programación](sesion1-fundamentos-de-programacion/README.md)**
 
 - **[Sesión 2: DOM](https://bedu.mikenieva.com/sesion2-dom)**
   
