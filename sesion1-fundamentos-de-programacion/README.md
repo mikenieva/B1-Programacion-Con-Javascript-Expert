@@ -8,21 +8,35 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
 
 ## Tabla de Contenido
   
-  - **[¿Por qué Javascript?](#¿-por-qué-Javascript-?)**
+  - **[¿Por qué Javascript?](#por-que-javascript)**
     
-  - **[¿Cómo comenzar y qué hacer?](#)**
+  - **[¿Cómo comenzar y qué hacer?](#como-comenzar-y-que-hacer)**
   
-  - **[¿Cómo comenzar y qué hacer?](#)**  
+  - **[¿Qué es Javascript?](#que-es-javascript)**  
+
+  - **[Tu primer archivo Javascript](#tu-primer-archivo-javascript)**
+  
+  - **[¿Qué son las variables?](#que-son-las-variables)**
+  
+  - **[Tipos de Datos](#tipos-de-datos)**
+    - [Ejemplo 1: Tipos de Datos](#ejemplo-1-tipos-de-datos)
+    - [Reto 1: Crea tus variables](#reto-1-crea-tus-variables)    
     
-  - **[Ciclos](#Ciclos-for)**
-    - Ejercicio 3
-    - Reto 3
+  - **[Operadores Básicos](#operadores-basicos)**
+    - [Ejemplo 2: Operadores Básicos](#ejemplo-2-operadores-basicos)    
+       
+  - **[Condicionales](#condicionales)**
+    - [Ejemplo 3: Condicionales](#ejemplo-3-condicionales)
+    - [Reto 2: Piedra, papel o tijeras](#reto-2-piedra-papel-o-tijeras)
+  
+  - **[Ciclos - for](#ciclos-for)**
+    - [Ejemplo 4: Ciclos](#ejemplo-4-ciclos)
+    - [Reto 3: Par o impar](#reto-3-par-o-impar)
     
   - **[Funciones](#funciones)**
-    - Ejercicio 4
-       
-  - **[BEDU Travels: Sesión 1](#)**
-  
+    - [Ejemplo 5: Funciones](#ejemplo-5-funciones)
+    - [Reto 4: Par o impar con funciones](#reto-4-par-o-impar-con-funciones)
+    
   - **[PREWORK - Siguiente sesión](#prework)**
   
   - **[Postwork](#postwork)**
