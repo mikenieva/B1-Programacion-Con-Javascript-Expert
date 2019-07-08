@@ -1,6 +1,6 @@
 # BEDU Tech
 
-**[Introducción](README.md)**
+* **[Introducción](README.md)**
 
 ## Programa de Estudio
 
