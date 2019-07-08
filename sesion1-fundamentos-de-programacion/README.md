@@ -8,13 +8,13 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
 
 ## Tabla de Contenido
   
-  - **[¿Por qué Javascript?](#)**
+  - **[¿Por qué Javascript?](#¿-por-qué-Javascript-?)**
     
   - **[¿Cómo comenzar y qué hacer?](#)**
   
   - **[¿Cómo comenzar y qué hacer?](#)**  
     
-  - **[Ciclos](#)**
+  - **[Ciclos](#Ciclos)**
     - Ejercicio 3
     - Reto 3
     
