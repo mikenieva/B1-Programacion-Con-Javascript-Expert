@@ -9,7 +9,7 @@ Es momento de integrar lógica a tus maquetaciones.
 
 ## Tabla de Contenido
   
-  - **[¿Qué es ECMAScript?](#haz-un-"fork"-del-repositorio)**
+  - **[¿Qué es ECMAScript?](#)**
     
   - **[let/const](#)**
     
