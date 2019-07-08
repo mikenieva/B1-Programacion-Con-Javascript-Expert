@@ -103,7 +103,7 @@ Ahora si, comencemos.
 
 ***
 
-## ¿Que es Javascript?
+## ¿Qué es Javascript?
 
 Javascript (JS) es:
 
