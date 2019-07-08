@@ -410,12 +410,12 @@ for(var i = 0; i<=200; i++){
 
 Con esto, obtendremos de retorno los 200 "hola".
 
-***
-
 ### Reto 3: Par o impar
 
 - Crea un ciclo que cuente del 0 al 100. Usa un `console.log`.
 - Si el número que está tocando en ese momento es par, que lo mencione en el `console.log` también. 
+
+***
 
 ## Funciones
 
@@ -424,6 +424,7 @@ Con esto, obtendremos de retorno los 200 "hola".
 - Tienen dos momentos: **declaración** e **invocación**.
 
 - Pueden ser invocadas las veces que se necesiten. Dentro del mismo archivo o en externos.
+
 
 ### Ejemplo 5: Funciones
 
@@ -441,8 +442,6 @@ congelar("pollo")
 congelar("carne")
 congelar("helado")
 ````
-
-***
 
 ### Reto 4: Par o impar con funciones
 
