@@ -857,6 +857,8 @@ Con esto, obtendremos de retorno los 200 "hola".
 
 ### Ejemplo 5: Funciones
 
+Crearemos una función que permita congelar alimentos.
+
 ````javascript
 // DECLARACIÓN
 function congelar(alimento){
@@ -877,4 +879,3 @@ congelar("helado")
 Ahora, combinemos los ciclos y funciones.
  
 - Genera un ciclo del 0 al 100, que se invoque a través de una función. 
-
