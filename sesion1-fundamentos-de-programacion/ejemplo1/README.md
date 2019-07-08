@@ -1,4 +1,4 @@
-### Ejemplo 1: Tipos de Datos:
+### Ejemplo 1: Tipos de Datos
 
 - Escribiremos todos los tipos de variables relacionados con el tema "alimentos". 
 
