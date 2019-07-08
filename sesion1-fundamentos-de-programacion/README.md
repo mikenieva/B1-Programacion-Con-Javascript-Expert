@@ -18,7 +18,7 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
     - Ejercicio 3
     - Reto 3
     
-  - **[Funciones](#Funciones)**
+  - **[Funciones](#funciones)**
     - Ejercicio 4
        
   - **[BEDU Travels: Sesión 1](#)**
