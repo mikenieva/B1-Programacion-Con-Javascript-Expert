@@ -14,11 +14,11 @@ Conocerás su trayectoria y aprenderás a utilizar sus bases (variables, condici
   
   - **[¿Cómo comenzar y qué hacer?](#)**  
     
-  - **[Ciclos](#Ciclos)**
+  - **[Ciclos](#Ciclos-for)**
     - Ejercicio 3
     - Reto 3
     
-  - **[Funciones](#)**
+  - **[Funciones](#Funciones)**
     - Ejercicio 4
        
   - **[BEDU Travels: Sesión 1](#)**
