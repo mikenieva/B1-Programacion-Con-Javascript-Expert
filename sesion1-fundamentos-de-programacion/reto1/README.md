@@ -1,9 +1,7 @@
-# Reto 1: Escribe tus variables
+### Reto 1: Crea tus variables
 
-## Instrucciones:
+Es tu turno. 
 
-- Abre Visual Studio Code
-
-- Crea un archivo sesion1-reto1.js
-
-- Escribe una variable para cada tipo de dato.
+- Crea un archivo reto1.js
+ 
+- Escribe una variable para cada tipo de dato, al tema que quieras.
