@@ -1,3 +1,0 @@
-// ## Lineamientos de la sesión
-
-## 
