@@ -470,5 +470,3 @@ congelar("helado")
   - Trazar y planear las funciones que van a necesitar, nombrándolas correctamente.
   - Integrar en una primera iteración ciclos, condicionales y variables para generar las funcionalidades iniciales. 
   - Empujar a Github cambios y empezar a nombrar correctamente cada uno de ellos.
-
-
