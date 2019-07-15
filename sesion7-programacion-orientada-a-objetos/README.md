@@ -1,40 +1,31 @@
 # Sesión 7: Programación Orientada a Objetos | Módulo JS
 
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
-
-Es momento de integrar lógica a tus maquetaciones.
+El alumno obtendrá un dominio del paradigma de programación orientada a objetos aplicando sus pilares y construyendo clases para controlar el instanciamiento. 
 
 
 ***
 
-## Tabla de Contenido
+## Tabla de Contenidos
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
-    - Ejercicio 1
+  - **Introducción al OOP**
+  - **Pilares del OOP**
+  - **Objetos Básicos en Javascript**
+  
+  
+  - **Crear una clase**
+    - Ejemplo 1
+ 
+  - **Crear una clase juguete**
     - Reto 1
     
-  - **[Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)**
-    - Ejercicio 2
+  - **Crear una clase chocolate**
     - Reto 2
     
-  - **[Ciclos](#alcance-2-crea-una-variable-de-usuario-en-indexjs)**
-    - Ejercicio 3
-    - Reto 3
     
-  - **[Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
-    - Ejercicio 4
-    - Reto 4
-    
-  - **[BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)**
+  - **[BEDU Travels: Sesión 7](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-7-programaci%C3%B3n-orientada-a-objetos)**
   
-  - **[Prework](#prework)**
-  - **[Postwork](#postwork)**
+  - **[Prework]**
+  - **[Postwork]**
   
 ***
-
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
-
-La gran bienvenida a Javascript.
-
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 
