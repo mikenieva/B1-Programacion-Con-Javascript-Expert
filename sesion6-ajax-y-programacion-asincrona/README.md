@@ -1,39 +1,38 @@
 # Sesión 6: AJAX y Programación Asíncrona | Módulo JS
 
-Conforme progresa la velocidad y la optimización de aplicaciones, contamos con la necesidad de ejecutar procesos simultáneamente, en mayores cantidades y más rápido.
+El alumno comprenderá el concepto de asincronismo como callbacks, promesas y las nuevas características de ES6 con "async" y "await" para construir una mejor arquitectura del proyecto y un robusto flujo de datos. 
 
-Javascript cuenta con diferentes métodos para trabajar asincronía 
 
 ***
 
-## Tabla de Contenido
+## Tabla de Contenidos
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
-    - Ejercicio 1
+  - **Node.js**
+  - **NPM**
+  - **Programación Asíncrona**
+  - **Event Loops**
+  - **Callbacks**
+  - **Promesas**
+  - **Async-Await**
+  
+  
+  
+  - **Crear una clase**
+    - Ejemplo 1
+ 
+  - **Crear una clase juguete**
     - Reto 1
     
-  - **[Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)**
-    - Ejercicio 2
+  - **Crear una clase chocolate**
     - Reto 2
     
-  - **[Ciclos](#alcance-2-crea-una-variable-de-usuario-en-indexjs)**
-    - Ejercicio 3
-    - Reto 3
     
-  - **[Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
-    - Ejercicio 4
-    - Reto 4
-    
-  - **[BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)**
+  - **[BEDU Travels: Sesión 6](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-6-asincron%C3%ADa)**
   
-  - **[Prework](#prework)**
-  - **[Postwork](#postwork)**
+  - **[Prework]**
+  - **[Postwork]**
   
 ***
 
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
 
-La gran bienvenida a Javascript.
-
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 
