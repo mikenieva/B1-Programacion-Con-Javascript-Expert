@@ -23,7 +23,7 @@ El alumno dominará el paradigma de la programación funcional para sintetizar, 
   - **[Multiplica cada número dentro de un arreglo por dos](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
     - Reto 3
     
-  - **[BEDU Travels: Sesión 8](#https://bedu.mikenieva.com/proyecto/bedu-travels#sesion-8-programacion-funcional)**
+  - **[BEDU Travels: Sesión 8](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-8-programaci%C3%B3n-funcional)**
   
   - **[Prework](#prework)**
   - **[Postwork](#postwork)**
