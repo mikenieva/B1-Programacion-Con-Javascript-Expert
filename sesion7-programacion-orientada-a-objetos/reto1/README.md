@@ -8,33 +8,51 @@ Aprender a desarrollar clases para instanciamiento de múltiples objetos.
 1. 
 
 ```javascript
-class Juguete{
-  constructor(nombre, precio, marca){
-    this.nombre = nombre
-    this.precio = precio
-    this.marca = marca
-  }
+class Chocolate{
+constructor(marca, color, sabor, tamano, porcentajeDeCacao, temperatura, gramaje){
+  this.marca = marca;
+  this.color = color;
+  this.sabor = sabor;
+  this.tamano = tamano;
+  this.porcentajeDeCacao = porcentajeDeCacao;
+  this.temperatura = temperatura
+  this.gramaje = gramaje
+}
+calculargramaje(){
+  return `
+  ${this.gramaje * 50 * this.gramaje} gramos
+  `
 
-  aumentarPrecio(temporada){
-    if(temporada === "invierno"){
-      // Aumentar al precio 40%
-      return `
-          El juguete en ${temporada} es de:
-          ${(this.precio * .4) + this.precio}
-      `
-    } else{
-      // El precio baja en 5%
-        return `
-          El juguete tiene descuento y es de:
-          ${this.precio - (this.precio * .05)}
-        `
-    }
+}
+estado(temperatura){
+  console.log(temperatura)
+  console.log(this.temperatura)
+  if(this.temperatura==="caliente"){
+    return "derretido"
+  }
+  else{
+    if(this.temperatura==="frio")
+    return "congelado"
   }
 }
+vendeRapido(temporada){
+  if(temporada ==="invierno"){
+     return "se vende mucho"
+  }
+  else{
+    return "se vende poco"
+  }
+}
+}
 
-const nintendoSwitch = new Juguete("Nintendo Switch", 6500, "Nintendo")
+const Turin = new Chocolate("Turin", "cafe", "amargo", "Dos tabletas", "Cien Por Ciento", "frio", 75)
+console.log(Turin)
+console.log(Turin.estado("super frio"))
+console.log(Turin.calculargramaje())
+console.log(Turin.vendeRapido("verano"))
 
-console.log(nintendoSwitch)
-console.log(nintendoSwitch.aumentarPrecio("verano"))
+const Hersheys = new Chocolate("Hersheys", "blanco", "dulce", "Una tableta", "Veinte Por Ciento", "caliente")
+console.log(Hersheys)
+console.log(Hersheys.estado())
 
 ```
