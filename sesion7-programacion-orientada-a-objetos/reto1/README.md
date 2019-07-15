@@ -15,9 +15,9 @@ Aprender a desarrollar clases para instanciamiento de múltiples objetos.
   g. Gramaje
   
 2. Agrega 3 métodos en la clase.
-  a. calcularGramaje(). Retorne el gramaje, multiplicado por 50.
-  b. estado(temperatura). Retorne, de acuerdo a cierta temperatura, cómo se comporta el chocolate.
-  c. vendeRapido(temporada). Retorne, de acuerdo a la temporada, cómo se vende el chocolate.
+  - calcularGramaje(). Retorne el gramaje, multiplicado por 50.
+  - estado(temperatura). Retorne, de acuerdo a cierta temperatura, cómo se comporta el chocolate.
+  - vendeRapido(temporada). Retorne, de acuerdo a la temporada, cómo se vende el chocolate.
 
 
 ```javascript
