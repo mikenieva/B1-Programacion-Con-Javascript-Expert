@@ -6,13 +6,13 @@ Aprender a desarrollar clases para instanciamiento de múltiples objetos.
 
 ### DESARROLLO
 1. Crea una clase "Chocolate" que contenga como propiedades en su constructor:
-  a. Marca
-  b. Color
-  c. Sabor
-  d. Tamaño
-  e. Porcentaje de Cacao
-  f. Temperatura
-  g. Gramaje
+  - Marca
+  - Color
+  - Sabor
+  - Tamaño
+  - Porcentaje de Cacao
+  - Temperatura
+  - Gramaje
   
 2. Agrega 3 métodos en la clase.
   - calcularGramaje(). Retorne el gramaje, multiplicado por 50.
