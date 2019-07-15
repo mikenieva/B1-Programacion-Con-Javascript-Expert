@@ -5,7 +5,7 @@ El alumno dominará el paradigma de la programación funcional para sintetizar, 
 
 ***
 
-## Tabla de Contenido
+## Tabla de Contenidos
   
   - **Inmutabilidad de los datos**
   - **Funciones puras**
@@ -14,13 +14,13 @@ El alumno dominará el paradigma de la programación funcional para sintetizar, 
   - **Usos de Puro vs Impuro**
  
     
-  - **[Películas: Utilizar funciones dentro de un arreglo de objetos](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
+  - **Películas: Utilizar funciones dentro de un arreglo de objetos]
     - Reto 1
     
-  - **[Helados: Crear una función que filtre datos utilizando el método de arreglos](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
-    - Reto 2
+  - **Helados: Crear una función que filtre datos utilizando el método de arreglos
+  - Reto 2
     
-  - **[Multiplica cada número dentro de un arreglo por dos](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
+  - **Multiplica cada número dentro de un arreglo por dos**
     - Reto 3
     
   - **[BEDU Travels: Sesión 8](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-8-programaci%C3%B3n-funcional)**
