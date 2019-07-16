@@ -12,34 +12,25 @@ Es momento de integrar lógica a tus maquetaciones.
   - **[¿Qué es ECMAScript?](#)**
     
   - **[let/const](#)**
-    
+    <hr>
   - **[Template Strings](#)**
-    - Ejercicio 1
+    - [Ejemplo 1](./Ejemplo-01)
     
   - **[Arrow Functions](#)**
-    - Ejercicio 2
+    - [Ejemplo 2](./Ejemplo-02)
     
   - **[Default Parameters](#)**
-    - Ejercicio 3
-  
+    - [Ejemplo 3](./Ejemplo-03)
+    
   - **[REST Parameter](#)**
-    - Ejercicio 4
+    - [Ejemplo 4](./Ejemplo-04)
     
   - **[Destructuring](#)**
-    - Ejercicio 5
-    - Reto 1
+    - [Ejemplo 5](./Ejemplo-05)
+    - [Reto 1](./reto1)
 
-  - **[BEDU Travels: Sesión 3](#)**
+  - **[BEDU Travels: Sesión 3](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-3-es6)**
 
   - **[PREWORK - Siguiente sesión](#prework)**
   
   - **[POSTWORK](#postwork)**
-  
-***
-
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
-
-La gran bienvenida a Javascript.
-
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
-
