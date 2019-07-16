@@ -1,5 +1,5 @@
 ##### Reto 01
-## ES6
+## AJAX y Programación Asíncrona
 
 ### OBJETIVO
 
