@@ -13,13 +13,13 @@ El alumno obtendrá un dominio del paradigma de programación orientada a objeto
   
   
   - **Crear una clase**
-    - Ejemplo 1
+    - [Ejemplo 1](./Ejemplo-01)
  
   - **Crear una clase juguete**
-    - Reto 1
+    - [Reto 1](./reto1)
     
   - **Crear una clase chocolate**
-    - Reto 2
+    - [Reto 2](./reto2)
     
     
   - **[BEDU Travels: Sesión 7](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-7-programaci%C3%B3n-orientada-a-objetos)**
