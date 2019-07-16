@@ -1,5 +1,5 @@
 ##### Reto 01
-## JSON y APIs
+## Lista aleatoria de imágenes de perritos
 
 ### OBJETIVO
 
