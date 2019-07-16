@@ -13,6 +13,7 @@ El alumno dominará el paradigma de la programación funcional para sintetizar, 
   - **Arquitectura de aplicaciones**
   - **Usos de Puro vs Impuro**
  
+ <hr>
     
   - **Películas: Utilizar funciones dentro de un arreglo de objetos]**
     - [Reto 1](./reto1)
