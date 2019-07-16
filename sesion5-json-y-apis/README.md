@@ -1,8 +1,6 @@
 # Sesión 5: JSON y APIs | Módulo JS
 
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
-
-Es momento de integrar lógica a tus maquetaciones.
+Identificar algoritmos básicos que le permita resolver problemas repetitivos dentro de su código. Asimismo, utilizará sus primeras estructuras de datos para dar  lectura y manutención eficiente a sus proyectos.
 
 
 ***
