@@ -5,30 +5,29 @@ Identificar algoritmos básicos que le permita resolver problemas repetitivos de
 
 ***
 
-## Tabla de Contenido
+## Tabla de Contenidos
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
-    - Ejercicio 1
-    - Reto 1
+  - **Modelo cliente servidor**
+  - **¿Qué es el protocolo HTTP?**
+  - **Objetos JSON**
+  - **API**
+  - **AJAX**
+  - **Fetch**
+
+  <hr>
+
+  - **Event Loop**
+    - [Reto 1](./reto1)
     
-  - **[Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)**
-    - Ejercicio 2
-    - Reto 2
+  - **Event Loop**
+    - [Reto 2](./reto2)
     
-  - **[Ciclos](#alcance-2-crea-una-variable-de-usuario-en-indexjs)**
-    - Ejercicio 3
-    - Reto 3
+     
     
-  - **[Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
-    - Ejercicio 4
-    - Reto 4
-    
-  - **[BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)**
+  - **[BEDU Travels: Sesión 5](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-5-json-y-apis)**
   
-  - **[Prework](#prework)**
-  - **[Postwork](#postwork)**
-  
-***
+  - **[Prework]**
+  - **[Postwork]**
 
 
 
