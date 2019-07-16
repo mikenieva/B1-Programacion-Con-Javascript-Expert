@@ -3,7 +3,7 @@
 
 ### OBJETIVO
 
-* Crea funciones, callbacks, promesas async-await
+* Conectarse a una API y expresar diferentes datos a través de asincronismo.
 
 ### DESARROLLO
 
