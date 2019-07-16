@@ -3,6 +3,8 @@
 
 ### OBJETIVO
 
+* Crea funciones, callbacks, promesas async-await
+
 ### DESARROLLO
 
 1. Entra a REST Countries (https://restcountries.eu/rest/v2/all) y observa el JSON con todos los países. Lo que seguirá es extraer los datos para el programa. Utiliza Nodejs.
