@@ -11,6 +11,7 @@ El alumno obtendrá un dominio del paradigma de programación orientada a objeto
   - **Pilares del OOP**
   - **Objetos Básicos en Javascript**
   
+  <hr>
   
   - **Crear una clase**
     - [Ejemplo 1](./Ejemplo-01)
