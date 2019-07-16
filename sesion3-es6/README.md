@@ -28,6 +28,8 @@ Rest Parameter
 
 Destructuring
  - [Ejemplo 8](./Ejemplo-08)
+ 
+ <hr>
 
   - **[BEDU Travels: Sesión 3](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-3-es6)**
 
