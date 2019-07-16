@@ -14,10 +14,8 @@ El alumno comprenderá el concepto de asincronismo como callbacks, promesas y la
   - **Callbacks**
   - **Promesas**
   - **Async-Await**
+  <hr>
   
-  
-  
- 
   - **Event Loop**
     - Ejemplo 1
     
