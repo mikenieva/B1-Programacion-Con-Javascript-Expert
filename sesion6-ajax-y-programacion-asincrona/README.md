@@ -36,5 +36,3 @@ El alumno comprenderá el concepto de asincronismo como callbacks, promesas y la
   
 ***
 
-
-

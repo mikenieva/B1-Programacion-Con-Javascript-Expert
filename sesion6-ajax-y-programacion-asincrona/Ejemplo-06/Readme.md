@@ -1,4 +1,4 @@
-##### Ejemplo 05
+##### Ejemplo 06
 ## ASYNC - AWAIT 
 
 ### OBJETIVO
@@ -8,17 +8,10 @@
 
 ```javascript
 
-// ASYNC - AWAIT : EJEMPLO 7 (15 minutos)
+// ASYNC - AWAIT : EJEMPLO 6  (5 minutos)
 
-async function getUserFriends(){
-    let user = await fetchJSON('users/me')
-    let friendsIDs = await fetchJSON(`/friends/${user.id}`)
-    let promises = friendIDs.map((id) => {
-        return fetchJSON(`/users/${id}`);
-    })
-    let friends = await Promise.all(promises)
-    console.log(friends)
+async function getUsers(){
+    let result = await fetchJSON('/users')
+    console.log(result)
 }
-let promise = getUserFriends()
-
 ```

@@ -10,25 +10,24 @@
 ```javascript
 
 
-// CALLBACK: EJEMPLO 4
+// CALLBACK: EJEMPLO 3
 
-const saludar = (letra, callback) => {
-    callback(letra)
+
+const getUser = (id, callback) => {
+    let user = {
+        id: id,
+        name: 'Mike'
+    }
+
+    setTimeout(() => {
+        callback(user)
+    }, 2000)
 }
 
-const despedirse = (letra, cb) => {
-    cb(letra)
-}
-
-saludar("hola1", (cachandoLetra) => {
-    console.log(`${cachandoLetra} mundo`)
-    saludar("hola2", (cachandoLetra) => {
-        console.log(`${cachandoLetra} mundo`)
-        saludar("hola3", (cachandoLetra) => {
-            console.log()
-        })
-    })
+getUser(31, userObject => {
+    console.log(userObject)
 })
+
 
 
 

@@ -1,34 +1,20 @@
 ##### Ejemplo 02
-## CALLBACK 
+## Saludo 
 
 ### OBJETIVO
-
+Aplicar el conocimiento sobre métodos de arreglo para multiplicar números. 
 
 ### DESARROLLO
 1. 
 
 ```javascript
-
-
-// CALLBACK: EJEMPLO 3
-
-
-const getUser = (id, callback) => {
-    let user = {
-        id: id,
-        name: 'Mike'
-    }
-
-    setTimeout(() => {
-        callback(user)
-    }, 2000)
-}
-
-getUser(31, userObject => {
-    console.log(userObject)
-})
-
-
-
-
+const saludar = nombre => {
+    alert('Hola ' + nombre);
+  }
+  const interaccionUsuario = (callback) => {
+    const nombre = prompt("Ingresa tu nombre.");
+    callback(nombre);
+  }
+  
+  interaccionUsuario(saludar);
 ```
