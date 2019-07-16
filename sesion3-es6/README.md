@@ -1,9 +1,5 @@
 # Sesión 3: ES6 | Módulo JS
-
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
-
-Es momento de integrar lógica a tus maquetaciones.
-
+El alumno aprenderá a utilizar ES6 y características modernas del lenguaje.
 
 ***
 
