@@ -16,10 +16,10 @@ Identificar algoritmos básicos que le permita resolver problemas repetitivos de
 
   <hr>
 
-  - **Event Loop**
+  - **Lista aleatoria de imágenes de perritos**
     - [Reto 1](./reto1)
     
-  - **Event Loop**
+  - **Listo de películas**
     - [Reto 2](./reto2)
     
      
