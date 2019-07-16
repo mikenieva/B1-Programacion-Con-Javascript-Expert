@@ -30,9 +30,5 @@ Identificar algoritmos básicos que le permita resolver problemas repetitivos de
   
 ***
 
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
 
-La gran bienvenida a Javascript.
-
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 
