@@ -4,7 +4,10 @@
 ### OBJETIVO
 
 ### DESARROLLO
-1. 
+1. Una alternativa más moderna y acoplada a las necesidades de hoy es utilizar "Promesas", en lugar de "Callbacks".
+2. Las promesas tienen dos partes. La primera cuando la declaras dentro de una función y utilizas la sintaxis `new Promise`. A esta la invocarás y le pasarás como parámetro dos funciones (resolve, reject). Dentro de las sentencias, ejecutarás `Resolve` cuando la promesa se cumpla exitosamente y  `Reject` cuando la promesa falle o tenga problemas.
+3. Una vez declarada la función con una promesa dentro, iremos a la invocación, la cual, dependiendo del resultado la conectarás con la sintaxis .then(), la cual significa que si la promesa se ejecutó correctamente (resolve), entonces traslada el retorno a la siguiente sección. En caso de que haya un fallo (reject), utilizaremos (.catch)
+
 
 ```javascript
 
