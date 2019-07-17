@@ -4,7 +4,9 @@
 ### OBJETIVO
 
 ### DESARROLLO
-1. 
+1. Siendo más prácticos, async y await (junto con las promesas) se ejecutan muy bien cuando necesitamos extraer datos de una base de datos externa (a través de una API, por ejemplo).
+2. Conforme se vayan ejecutando las sentencias, la sintaxis `await` permite "esperar" el resultado para luego continuar con el programa y vayamos adquiriendo todos los datos consecutivamente.
+
 
 ```javascript
 
