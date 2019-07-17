@@ -33,9 +33,3 @@ Todos los profesionales experimentamos y/o trabajamos con Node.
   
 ***
 
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
-
-La gran bienvenida a Javascript.
-
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
-
