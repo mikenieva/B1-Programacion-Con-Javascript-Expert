@@ -19,7 +19,7 @@ export const clearArea = (area) => {
     return resultArea.innerHTML = ""
 }
 
-export const renderSumView = (result) => {
+export const renderSubtractionView = (result) => {
     const markup = `
         <span>
             ${result}
