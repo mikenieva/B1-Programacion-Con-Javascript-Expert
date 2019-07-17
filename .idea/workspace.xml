@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b542b9a8-cd52-4e25-9532-fcad86ce799b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/src/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/src/js/views/sumView.js" beforeDir="false" afterPath="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/src/js/views/sumView.js" afterDir="false" />
-    </list>
+    <list default="true" id="b542b9a8-cd52-4e25-9532-fcad86ce799b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,30 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sesion2-dom/postwork/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="147">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sesion2-dom/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="24" selection-start-line="24" selection-end-line="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sesion3-es6/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -92,12 +64,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="9" selection-start-column="9" selection-end-column="9" />
+                <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo1/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="229">
+                <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/ejemplo1/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="289">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -184,6 +180,7 @@
         <option value="$PROJECT_DIR$/sesion1-fundamentos-de-programacion/README.md" />
         <option value="$PROJECT_DIR$/sesion2-dom/README.md" />
         <option value="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/reto1/README.md" />
+        <option value="$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/ejemplo1/README.md" />
       </list>
     </option>
   </component>
@@ -228,12 +225,6 @@
             <path>
               <item name="bedutravels-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="bedutravels-student" type="462c0819:PsiDirectoryNode" />
-              <item name="sesion1-fundamentos-de-programacion" type="462c0819:PsiDirectoryNode" />
-              <item name="reto1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bedutravels-student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bedutravels-student" type="462c0819:PsiDirectoryNode" />
               <item name="sesion2-dom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,7 +247,7 @@
               <item name="bedutravels-student" type="b2602c69:ProjectViewProjectNode" />
               <item name="bedutravels-student" type="462c0819:PsiDirectoryNode" />
               <item name="sesion4-nodejs-y-arquitectura-mvc" type="462c0819:PsiDirectoryNode" />
-              <item name="reto1" type="462c0819:PsiDirectoryNode" />
+              <item name="ejemplo1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bedutravels-student" type="b2602c69:ProjectViewProjectNode" />
@@ -375,12 +366,12 @@
       <workItem from="1562552745023" duration="9938000" />
       <workItem from="1562596877520" duration="5324000" />
       <workItem from="1562854148071" duration="1640000" />
-      <workItem from="1563123294353" duration="4774000" />
+      <workItem from="1563123294353" duration="5007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48350000" />
+    <option name="totallyTimeSpent" value="48583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -559,16 +550,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="840">
             <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
@@ -906,7 +887,27 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion1-fundamentos-de-programacion/ejemplo1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="229">
+            <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion4-nodejs-y-arquitectura-mvc/ejemplo1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
           </first_editor>
           <second_editor />
         </state>
