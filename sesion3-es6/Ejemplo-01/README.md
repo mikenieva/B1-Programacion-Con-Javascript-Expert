@@ -3,8 +3,12 @@
 
 ### OBJETIVO
 
+Entender cómo utilizar el lenguaje bajo los nuevos estándares de Javascript.
+
 ### DESARROLLO
-1. 
+1. Comienza a cambiar los `var` por `let` y `const`. Observa la propiedad de inmutabilidad que tiene `const` al ser una constante y `let` es mutable. 
+
+Considerar el tema de que `var` es considerado `function scope` y `let` y `const` son `block scope`.
 
 ```javascript
 let a = 10;
@@ -16,6 +20,8 @@ console.log(a)    // 20
 const b = 10
 b = 20    // Error
 ```
+
+2. Obsserva cómo, en los objetos, puedes cambiar el valor de un `key`, incluso aunque sea constante. Misma situación en arreglos.
 
 ```javascript
 const auto = {
