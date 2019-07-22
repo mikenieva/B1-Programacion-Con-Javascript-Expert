@@ -52,11 +52,3 @@ Es momento de vincular lógica a tus maquetaciones.
       
 ***
 
-## DOM (Document Object Model)
-
-
-
-
-## Estructura de un nodo
-
-### Ejemplo 1 
