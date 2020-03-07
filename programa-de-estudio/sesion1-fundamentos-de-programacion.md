@@ -1,13 +1,6 @@
----
-description: >-
-  La gran bienvenida a Javascript. Uno de los lenguajes de programación más
-  usados en el mundo.Conocerás su trayectoria y aprenderás a utilizar sus bases
-  (variables, condicionales, ciclos y funciones)
----
-
 # Sesión 1: Fundamentos de Programación
 
-Tabla de Contenido
+## Tabla de Contenido
 
 * [**¿Por qué Javascript?**](sesion1-fundamentos-de-programacion.md#por-que-javascript)
 * [**¿Cómo comenzar y qué hacer?**](sesion1-fundamentos-de-programacion.md#como-comenzar-y-que-hacer)
