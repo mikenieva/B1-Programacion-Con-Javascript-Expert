@@ -17,8 +17,3 @@
 
 * [BEDU Travels](proyecto/bedu-travels.md)
 
-## Carrera
-
-* [1. Frontend](https://mikenieva.com)
-* [2. Backend](https://mikenieva.com)
-
